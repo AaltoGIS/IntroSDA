@@ -1,4 +1,4 @@
-.. figure:: img/Spatial-analytics-logo.png
+.. figure:: img/ISDA_banner.png
 
 **Introduction to Spatial Data Analysis** -course introduces you to different analysis approaches and methods of spatio-statistical analysis, geostatistics, map algebra
 and geovisual analysis. After the course, you can identify appropriate analysis approaches for different geospatial tasks,

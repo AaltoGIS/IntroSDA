@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Spatial-Analytics'
-copyright = '2023, Henrikki Tenkanen, Dept. of Built Environment, Aalto University'
-author = 'Henrikki Tenkanen'
+project = 'Introduction to Spatial Analysis'
+copyright = '2024, Henrikki Tenkanen & Jussi Nikander, Dept. of Built Environment, Aalto University'
+author = 'Henrikki Tenkanen & Jussi Nikander'
 
 # -- General configuration ---------------------------------------------------
 
@@ -60,7 +60,7 @@ todo_include_todos = True
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-html_logo = 'img/Aalto-logo.png'
+html_logo = 'img/Aalto_logo.png'
 html_title = ""
 
 # Custom CSS
@@ -68,10 +68,10 @@ html_title = ""
 
 html_theme_options = {
     # "external_links": [],
-    "repository_url": "https://github.com/AaltoGIS/Spatial-Analytics/",
+    "repository_url": "https://github.com/AaltoGIS/IntroSDA/",
     "repository_branch": "master",
     "path_to_docs": "source/",
-    "google_analytics_id": "UA-214280609-1",
+    #"google_analytics_id": "UA-214280609-1",
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {
