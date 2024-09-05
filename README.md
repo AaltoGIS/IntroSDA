@@ -1,3 +1,3 @@
-# Spatial Analytics
+# Introduction to Spatial Data Analysis
  
-Site for "Spatial Analytics" -course at the Dept. Built Environment, Aalto University
+Site for "Introduction to Spatial Data Analysis" -course at the Dept. Built Environment, Aalto University. 
