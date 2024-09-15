@@ -31,7 +31,7 @@ Instructors
 Email: *firstname.lastname@aalto.fi*
 
 * Guest lecturer: Pyry Kettunen, FGI
-* Course assistants: Aino Schulz
+* Course assistants: Aino Schulz, Juho Antikainen
 
 Course websites
 ---------------
