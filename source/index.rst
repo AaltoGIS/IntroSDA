@@ -67,7 +67,7 @@ Program
 -------
 
 The course includes two lectures per week and is held at the Aalto University starting in the first teaching period.
-Topics per Lesson are listed below. Please note that this web page is updated each week before the given lesson:
+Topics per week are listed below. Please note that this web page is updated each week before the given lesson:
 
 .. list-table::
     :widths: 1 8
