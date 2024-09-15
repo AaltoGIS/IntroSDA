@@ -15,7 +15,7 @@ After completing this course, you should:
 - understand the basic principles of map overlay and map algebra
 - understand the principles of graph theory and network analysis
 - understand the basic principles of spatio-temporal multivariate analysis
-- be able to apply the previous concepts to different geographical problems using Python programming language
+- be able to apply the previous concepts to different geographical problems using Python programming language and desktop GIS
 
 Prerequirements
 ---------------
@@ -75,31 +75,47 @@ Topics per Lesson are listed below. Please note that this web page is updated ea
     :stub-columns: 1
     :align: left
 
-    * - Lesson
+    * - Week
       - Themes
     * - 1
       - - Course overview and practicalities
         - Introduction to spatial analysis
-        - Point pattern analysis
+        - Potential and pitfalls of spatial data
     * - 2
-      - - Spatial autocorrelation
-        - Git+Python tutorials
+      - - Spatial data model
+        - Point pattern analysis
+        - Density and clustering
     * - 3
-      - - Analysis of spatial field data
+      - - The concept of neighborhood and spatial analysis
+        - Spatial effects: dependency and heterogeneity
+        - Spatial autocorrelation
     * - 4
-      - - Geostatistics: Interpolation (IDW+Kriging)
+      - - Geostatistics
+        - Spatial interpolation (IDW+Kriging)
     * - 5
-      - - Map overlay & algebra
-    * - 6
       - - Spatial network analysis
+        - Graph problems and shortest path algorithms
+        - Optimization & centrality
+    * - 6
+      - - Analysis of spatial field data
+        - Map overlay & algebra
+        - Surface analysis
     * - 7
-      - - Spatial networks: Optimization & centrality
+      - - Computational geometry
+        - Spatial data structures
+        - Topology and spatial relationships
     * - 8
-      - - Multivariate spatial analysis
+      - - Spatial algorithms
+        - Spatial index
+        - Spatial databases
     * - 9
-      - - Cartography and Map User Interfaces
+      - - Clustering
+        - Multivariate spatial analysis
+        - Geoparsing with Natural Language Processing
+
     * - 10
-      - - Visual analytics
+      - - Cartography and Map User Interfaces
+        - Visual analytics
 
 |
 
@@ -124,7 +140,7 @@ Contents
     :maxdepth: 1
     :caption: Week 1
 
-    course-info/introduction
+    lessons/L1/introduction
     lessons/L1/overview
     lessons/L1/introduction-to-spatial-analysis
     lessons/L1/intro-to-python-geostack.ipynb
