@@ -1,5 +1,5 @@
-Spatial networks: Optimization & Centrality
-===========================================
+Graph problems and algorithms
+=============================
 
 .. raw:: html
 
