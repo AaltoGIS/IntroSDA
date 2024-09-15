@@ -20,7 +20,7 @@ Period 2
 - Lessons on Mondays 13:15-15:00 and Thursdays 13:15-15:00 (room 326 at Otakaari 4). Videos will be shared afterwards.
 - Exercise sessions on Wednesdays 13:15-15:00 (room U351, Otakaari 1). In-person only.
 
-/* Note: On Wednesday 9.10, the exercise session is exceptionally 16:15-18:00.
+\* Note: On Wednesday 9.10, the exercise session is exceptionally 16:15-18:00.
 
 Instructors
 -----------
