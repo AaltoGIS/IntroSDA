@@ -141,11 +141,11 @@ Contents
     :maxdepth: 1
     :caption: Exercises
 
-    exercises/exercise-1
-    exercises/exercise-2
-    exercises/exercise-3
-    exercises/exercise-4
-    exercises/exercise-5
+    .. exercises/exercise-1
+    .. exercises/exercise-2
+    .. exercises/exercise-3
+    .. exercises/exercise-4
+    .. exercises/exercise-5
 
 .. toctree::
     :maxdepth: 1
@@ -154,80 +154,79 @@ Contents
     lessons/L1/overview
     lessons/L1/introduction
     lessons/L1/introduction-to-spatial-analysis
-    lessons/L1/spatial-data-potential-and-pitfalls
+    .. lessons/L1/spatial-data-potential-and-pitfalls
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 2
 
-   lessons/L2/overview
-   lessons/L2/spatial-data-model
-   lessons/L2/point-pattern-analysis
+   .. lessons/L2/overview
+   .. lessons/L2/spatial-data-model
+   .. lessons/L2/point-pattern-analysis
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 3
 
-    lessons/L3/overview
-    lessons/L3/spatial-effects
-    lessons/L3/spatial-autocorrelation
+    .. lessons/L3/overview
+    .. lessons/L3/spatial-effects
+    .. lessons/L3/spatial-autocorrelation
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 4
 
-    lessons/L4/overview
-    lessons/L4/geostatistics-kriging
+    .. lessons/L4/overview
+    .. lessons/L4/geostatistics-kriging
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 5
 
-    lessons/L5/overview
-    lessons/L5/spatial-network-analysis
-    lessons/L5/graph-problems-and-algorithms
-    lessons/L5/git-basics
-    lessons/L5/intro-to-python-geostack.ipynb
+    .. lessons/L5/overview
+    .. lessons/L5/spatial-network-analysis
+    .. lessons/L5/graph-problems-and-algorithms
+    .. lessons/L5/git-basics
+    .. lessons/L5/intro-to-python-geostack.ipynb
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 6
 
-    lessons/L6/overview
-    lessons/L6/spatial-field-data-and-map-algebra
-    lessons/L6/surface-analysis
+    .. lessons/L6/overview
+    .. lessons/L6/spatial-field-data-and-map-algebra
+    .. lessons/L6/surface-analysis
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 7
 
-    lessons/L7/overview
-    lessons/L7/spatial-data-structures
-    lessons/L7/voronoi-and-delanay
+    .. lessons/L7/overview
+    .. lessons/L7/spatial-data-structures
+    .. lessons/L7/voronoi-and-delanay
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 8
 
-    lessons/L8/overview
-    lessons/L8/spatial-algorithms
-    lessons/L8/spatial-data-management-and-databases
+    .. lessons/L8/overview
+    .. lessons/L8/spatial-algorithms
+    .. lessons/L8/spatial-data-management-and-databases
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 9
 
-    lessons/L9/overview
-    lessons/L9/multivariate-spatial-analysis
-    lessons/L9/geoparsing-and-NLP
+    .. lessons/L9/overview
+    .. lessons/L9/multivariate-spatial-analysis
+    .. lessons/L9/geoparsing-and-NLP
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 10
 
-    lessons/L10/overview
-    lessons/L10/cartography-map-user-interfaces
-    lessons/L10/visual-analytics
-    lessons/L10/final-remarks
-
+    .. lessons/L10/overview
+    .. lessons/L10/cartography-map-user-interfaces
+    .. lessons/L10/visual-analytics
+    .. lessons/L10/final-remarks
 
