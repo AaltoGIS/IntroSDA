@@ -1,4 +1,4 @@
-Tutorial 1.1 - Meet Git
+Tutorial 5.1 - Meet Git
 =======================
 
 This tutorial covers the very basics of version control using Git and GitHub. After this lesson you should be able to do these steps in JupyterLab using git and the JupyterLab git-plugin:

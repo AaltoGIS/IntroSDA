@@ -1,5 +1,5 @@
-Geostatistics: Kriging interpolation
-====================================
+Spatial interpolation
+=====================
 
 .. raw:: html
 
