@@ -5,7 +5,7 @@ The first week of this course will be dedicated to various introductions. We wil
 
 - :doc:`Introduction to the course and learning objectives <introduction>`
 - :doc:`Introduction to spatial analysis <introduction-to-spatial-analysis>`
-.. - :doc:`Potential and pitfalls of spatial data <spatial-data-potential-and-pitfalls>`
+- :doc:`Potential and pitfalls of spatial data <spatial-data-potential-and-pitfalls>`
 
 
 Lesson videos
