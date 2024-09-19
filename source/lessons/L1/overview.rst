@@ -24,7 +24,7 @@ Lesson videos
 
 .. admonition:: Lesson 1.2 - Challenges and Pitfalls of spatial data
 
-    Aalto University students can access the video by clicking the image below (requires login):
+   Aalto University students can access the video by clicking the image below (requires login):
 
    .. figure:: img/Lesson1.2.png
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e17aa55b-602e-4821-a474-b1f000778ba9
