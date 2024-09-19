@@ -85,6 +85,9 @@ html_theme_options = {
         # But it requires actions from the user nontheless, so atm it's a no-go.
         #"colab_url": "https://colab.research.google.com"
     },
+
+    # Possible announcement for the page
+    "announcement": ("📢 Lecture videos for week 1 can now be found under the 'Overview' page. 📢"),
 }
 
 # Allow errors
