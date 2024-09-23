@@ -3,9 +3,11 @@ Overview
 
 In this week, we will learn about:
 
-- :doc:`Spatial data model <spatial-data-model>`
-- :doc:`Point pattern analysis <point-pattern-analysis>`
+- :doc:`Spatial data modelling <spatial-data-model>`
 - :doc:`Exercise 1 <../../exercises/exercise-1>`
+
+.. - :doc:`Point pattern analysis <point-pattern-analysis>`
+
 
 Lesson videos
 -------------
