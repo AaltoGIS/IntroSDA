@@ -87,7 +87,7 @@ html_theme_options = {
     },
 
     # Possible announcement for the page
-    "announcement": ("📢 Lecture videos for week 1 can now be found under the 'Overview' page. 📢"),
+    "announcement": ("📢 Exercise 1 available now under the 'Exercises' section. 📢"),
 }
 
 # Allow errors
