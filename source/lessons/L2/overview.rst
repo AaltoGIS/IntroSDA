@@ -20,9 +20,11 @@ Lesson videos
         :width: 500px
         :align: left
 
-    .. .. admonition:: Lesson 2.2 - Point pattern analysis
-        Aalto University students can access the video by clicking the image below (requires login):
-        .. figure:: img/Lesson2.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cd1f1946-fd1a-458f-b480-b0b000b337a2
-            :width: 500px
-            :align: left
+ .. admonition:: Lesson 2.2 - Point pattern analysis
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/Lesson2.2.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cd2313a9-973f-451e-89bc-b1f700778c25
+        :width: 500px
+        :align: left
