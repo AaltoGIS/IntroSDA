@@ -20,7 +20,7 @@ Lesson videos
         :width: 500px
         :align: left
 
- .. admonition:: Lesson 2.2 - Point pattern analysis
+.. admonition:: Lesson 2.2 - Point pattern analysis
 
     Aalto University students can access the video by clicking the image below (requires login):
 
