@@ -162,7 +162,7 @@ Contents
 
    lessons/L2/overview
    lessons/L2/spatial-data-model
-   .. lessons/L2/point-pattern-analysis
+   lessons/L2/point-pattern-analysis
 
 .. toctree::
     :maxdepth: 1
