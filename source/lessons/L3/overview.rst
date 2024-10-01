@@ -9,8 +9,6 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-
-
 .. admonition:: Lesson 3.1 - Statistical Inference and Spatial Effects
 
     Aalto University students can access the video by clicking the image below (requires login):
