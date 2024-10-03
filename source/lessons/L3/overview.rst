@@ -4,8 +4,8 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Spatial effects <spatial-effects>`
+- :doc:`Spatial autocorrelation <spatial-autocorrelation>`
 
-.. - :doc:`Spatial autocorrelation <spatial-autocorrelation>`
 
 Lesson videos
 -------------
