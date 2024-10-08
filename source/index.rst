@@ -176,8 +176,8 @@ Contents
     :maxdepth: 1
     :caption: Week 4
 
-    .. lessons/L4/overview
-    .. lessons/L4/geostatistics-kriging
+    lessons/L4/overview
+    lessons/L4/geostatistics-kriging
 
 .. toctree::
     :maxdepth: 1
