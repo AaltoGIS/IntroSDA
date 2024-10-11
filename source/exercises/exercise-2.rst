@@ -1,7 +1,7 @@
 Exercise 2
 ==========
 
-**Due date:** Please complete this exercise by **Sunday 27th October**.
+**Due date:** Please complete this exercise by **Friday 25th October**.
 
 .. admonition:: Exercise 2 - Start your assignment
 
