@@ -19,6 +19,7 @@ dependencies:
   - geoplot
   - geopy
   - giddy
+  - git
   - gstools
   - h3-py
   - hvplot
