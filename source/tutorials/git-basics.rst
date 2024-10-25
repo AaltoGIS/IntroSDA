@@ -105,7 +105,7 @@ Before we can clone a repository from GitHub, we need to create a Personal Acces
 3. Then click **Tokens (classic)** on **Personal access tokens** menu:
 
 .. image:: img/GH_personal_access_token.jpeg
-    :width: 200
+    :width: 400
 
 5. Then we will create the token by clicking on **Generate new token (classic)**.
 
@@ -115,7 +115,7 @@ Before we can clone a repository from GitHub, we need to create a Personal Acces
 6. In case Github wants to confirm access, **Use your password** (or Github Mobile if you have it configured) to continue:
 
 .. image:: img/GH_confirm_access_password.jpeg
-   :width: 300
+   :width: 200
 
 7. Give your token 1) a **Name**, 2) **Expiration date** (90 Days), and 3) select the appropriate scope by clicking the **repo**:
 
@@ -125,16 +125,16 @@ Before we can clone a repository from GitHub, we need to create a Personal Acces
 8. Then we can click the **Generate token** button at the very bottom of the page to create and see our token:
 
 .. image:: img/GH_generate_token_button.jpeg
-    :width: 350
+    :width: 500
 
 10. We are then presented with our Personal access token. **This is only shown once!** Thus be sure to store this token somewhere safe. Do e.g. following:
 
-   1. **Click the copy button** to copy it to your clipboard and
-   2. **Create a new text-file somewhere safe on your computer,
-   3. **Paste the code into a text file** (alternatively you can store the token into a password manager if you use one).
-
 .. image:: img/GH_generated_token.jpeg
     :width: 500
+
+- **Click the copy button** to copy it to your clipboard and
+- **Create a new text-file somewhere safe on your computer,
+- **Paste the code into a text file** (alternatively you can store the token into a password manager if you use one).
 
 After these preparatory steps, we can actually start working on the exercises in CSC Noppe environment, which we will introduce next.
 
