@@ -22,10 +22,10 @@ Lesson videos
         :width: 500px
         :align: left
 
-..    .. admonition:: Lesson 5.2 - Spatial graph problems and algorithsm
+    .. admonition:: Lesson 5.2 - Spatial graph problems and algorithsm
         Aalto University students can access the video by clicking the image below (requires login):
         .. figure:: img/Lesson5.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3cc659e2-c64f-4b7e-adf8-b0ca00ec6b6b
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=058d3572-424d-474c-adf4-b21300a9c588
             :width: 500px
             :align: left
 
