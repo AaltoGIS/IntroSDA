@@ -39,7 +39,7 @@ Version control history consists of snapshots of all the files in our project.
 In order record changes to our files, we first add changes to a so called staging area (using ``git add``). The idea is, that you can have a (sometimes messy) working directory, and by using ``git add`` you tell
 Git which files to include in the next committed snapshot. Finally, ``git commit`` records a permanent snapshot of the staged changes. Read more about basic snapshotting `in here <https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Basic-Snapshotting>`__.
 
-.. figure:: img/Git_illustration.png
+.. figure:: img/Git_illustration.webp
 
     Version control steps using Git (adapted from `Git documentation <https://git-scm.com/about/staging-area>`__).
 
