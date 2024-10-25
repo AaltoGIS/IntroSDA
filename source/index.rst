@@ -149,6 +149,13 @@ Contents
 
 .. toctree::
     :maxdepth: 1
+    :caption: Tutorials
+
+    tutorials/git-basics
+
+
+.. toctree::
+    :maxdepth: 1
     :caption: Week 1
 
     lessons/L1/overview
