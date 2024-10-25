@@ -83,7 +83,10 @@ CSC Noppe is available only for students who are affiliated with Finnish univers
     4. Click on the **Join workspace** button on the top right
     5. Join the ``Introduction to Spatial Data Analysis`` workspace using the join code ``int-zcwunyr9``
 
-    After joining the group, you should be able to view an environment called ``Introduction to Spatial Data Analysis`` on the Dashboard.
+After joining the group, you should be able to view an environment called ``Introduction to Spatial Data Analysis`` on the Dashboard:
+
+.. figure:: img/intro-sda-workspace.png
+   :alt: CSC Noppe Workspace for the course
 
 
 Create a Personal Access Token
