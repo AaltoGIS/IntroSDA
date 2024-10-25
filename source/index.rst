@@ -186,7 +186,7 @@ Contents
     lessons/L5/overview
     lessons/L5/spatial-network-analysis
     lessons/L5/graph-problems-and-algorithms
-    .. lessons/L5/git-basics
+    lessons/L5/git-basics
     .. lessons/L5/intro-to-python-geostack.ipynb
 
 .. toctree::
