@@ -225,19 +225,19 @@ Add changes
 
 Let's start making changes in the repository! Open the ``README.md`` -file and make some edits. For example, add some text at the end of the file:
 
-.. figure:: img/edit-readme.png
+.. figure:: img/edit-readme.webp
 
     Edit a file in JupyterLab
 
 After saving your changes, check the status of the repository. You should see ``README.md`` listed under **Changed** files:
 
-.. figure:: img/git-plugin-changed.png
+.. figure:: img/git-plugin-changed.webp
 
     Changes visible in the Git plugin
 
 These changes are not yet "staged for commit", which means that we need to add them first to the staging area if we want to make a permanent snapshot of these changes.
 
-.. figure:: img/git-plugin-stage-changes.png
+.. figure:: img/git-plugin-stage-changes.webp
 
 After adding the changes, you should see the changed file under **Staged** in the Git plugin.
 
@@ -252,19 +252,19 @@ Commit changes
 Once the changed files are in the staging area, we can create a permanent snapshot by committing the changes.
 Always remember to write an informative commit message to accompany your changes:
 
-.. figure:: img/git-plugin-commit.png
+.. figure:: img/git-plugin-commit.webp
 
 Once you hit the commit-button, the plugin will most likely ask your name and email.
 
-.. figure:: img/git-commit-credentials.png
+.. figure:: img/git-commit-credentials.webp
 
 You can insert the same details you used when signing up to GitHub.
 
-.. figure:: img/git-plugin-commit-ok.png
+.. figure:: img/git-plugin-commit-ok.webp
 
 Once the commit succeeds, you should see the latest set of changes under the History-tab in the Git-plugin:
 
-.. figure:: img/git-plugin-history1.png
+.. figure:: img/git-plugin-history1.webp
 
 *Note: You might also see some previous changes by the course instructors. These changes have been generated automatically and you can ignore them.*
 
@@ -290,20 +290,20 @@ Push changes to your personal Exercise repository in GitHub
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Next, we want to synchronize our local changes with the remote repository on GitHub.
 
-.. figure:: img/git-plugin-pull-push-buttons.png
+.. figure:: img/git-plugin-pull-push-buttons.webp
 
     Buttons for Pulling and Pushing changes between the local and remote repositories
 
 First, it's good to use :code:`git pull` (button with arrow down) to double check for remote changes before contributing your own changes.
 Unless you cached your credentials, Git will once more prompt you for username and password at this point.
 
-.. figure:: img/git-plugin-pull-ok.png
+.. figure:: img/git-plugin-pull-ok.webp
 
 In this case, the repository is probably up-to-date and no new changes are downloaded. However, it is good practice to always use Git Pull before publishing your local changes in case someone made changes in the remote repository in the meanwhile!
 
 Now we are ready to push the local changes to GitHub using :code:`git push` (button with arrow up):
 
-.. figure:: img/git-plugin-push-ok.png
+.. figure:: img/git-plugin-push-ok.webp
 
 Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/IntroSDA-2024/ .
 
@@ -331,7 +331,7 @@ Terminal
 
 **Start a new Terminal session in JupyterLab** using the icon on the Launcher, or from *File* > *New* > *Terminal*.
 
-.. figure:: img/terminal-icon.png
+.. figure:: img/terminal-icon.webp
 
 **Check if you have git installed** by typing :code:`git --version` in the terminal window:
 
