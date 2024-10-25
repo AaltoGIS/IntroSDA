@@ -76,3 +76,7 @@ dependencies:
   - xarray-spatial
   - xlrd
   - xlsxwriter
+  - pip
+  - pip:
+      - osmnx==2.0.0b3
+      - jupyterlab_myst
