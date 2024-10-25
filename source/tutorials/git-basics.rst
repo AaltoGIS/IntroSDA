@@ -159,8 +159,22 @@ Whenever you want to do programming on this course, the following steps need to 
 
 After these steps, you should have JupyterLab IDE running on your browser and you can start programming with it!
 
+Start working on the Exercise
+-----------------------------
+
+The following demonstrates how to start working on a programming exercise using CSC Noppe:
+
+Start you exercise assignment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As a very first thing, you always need to start your Exercise assignment by creating your personal exercise repository by
+clicking the link on our dedicated website for different exercises, such as:
+
+- `Exercise 1 <https://introsda.readthedocs.io/en/latest/exercises/exercise-1.html>`__
+- `Exercise 2 <https://introsda.readthedocs.io/en/latest/exercises/exercise-2.html>`__
+
 Clone your personal Exercise repository from GitHub
----------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you start working on a given Exercise, the first thing we need is the URL of your exercise repository from GitHub.
 **Go to** https://github.com/IntroSDA-2024/ **and navigate to your personal Exercise-3 repository** (e.g. ``exercise-3-HTenkanen``)
@@ -171,7 +185,6 @@ The URL looks something like this:
 https://github.com/IntroSDA-2024/exercise-3-HTenkanen.git but with your own username.
 
 .. figure:: img/git-copy-url.webp
-
 
 During this course, we will most often start working with the exercises using an existing repository from GitHub.
 In order to get a copy of the exercise repository on our own computer (or the cloud computer), we need to ``clone`` it.
