@@ -1,17 +1,14 @@
 Tutorial 0 - Meeting Git and Noppe
 ==================================
 
-This tutorial covers the very basics of version control using Git/GitHub and the **Noppe** cloud computing environment that we use for programming on this course.
-After this tutorial you should be able to start working on the programming Exercises in Noppe. In the basic workflow, you will repeat these steps when working on the Exercises:
+This tutorial covers the very basics of version control using **Git/GitHub** and the **Noppe** cloud computing environment that we use for programming on this course.
+After this tutorial you should be able to start working on the programming Exercises in Noppe. In the basic workflow, you will repeat the following steps:
 
 1. `Start Noppe computing instance`_
 2. `Clone your personal Exercise repository from GitHub`_
 3. `Add changes`_
 4. `Commit changes`_
 5. `Push changes to your personal Exercise repository in GitHub`_
-
-These steps can be completed either using the `JupyterLab git plugin`_ (we recommend this option for beginners) or using
-`Git from the command line`_.
 
 The following tutorial will teach you step-by-step how you can start working on the Exercises using the CSC Noppe cloud computing environment.
 
@@ -70,6 +67,8 @@ The CSC Noppe environment is only accessible to students from Finnish universiti
 Preparations
 ------------
 
+These preparatory steps **only needs to be done once at the beginning of the course**:
+
 Join the CSC Noppe workspace of the course
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -90,67 +89,54 @@ CSC Noppe is available only for students who are affiliated with Finnish univers
 Create a Personal Access Token
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Before we start cloning our repository from GitHub, we need to create a Personal Access Token for us to be able to interact with GitHub. We will go through the basic setup here, you can also find more detailed instructions in the `GitHub documentation <https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token>`_.
+Before we can clone a repository from GitHub, we need to create a Personal Access Token for us to be able to interact with GitHub. We will go through the basic setup here, you can also find more detailed instructions in the `GitHub documentation <https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token>`_.
 
-1. If you have not already verified your email address, make sure to do so in your GitHub-settings (`GitHub email verification <https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address>`_). On GitHub, go into your settings.
+1. If you have not already verified your email address, make sure to do so in your GitHub-settings (`GitHub email verification <https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address>`_).
+   On GitHub, go into `your settings <https://github.com/settings/profile>`__.
 
 .. image:: https://docs.github.com/assets/images/help/settings/userbar-account-settings.png
     :width: 200
 
-2. Go to the **developer settings** in the left sidebar.
+2. Go to the `developer settings <https://github.com/settings/apps>`__ which is located at the bottom of the left sidebar.
 
-.. image:: https://docs.github.com/assets/images/help/settings/developer-settings.png
+.. image:: img/GH_developer_settings.jpeg
     :width: 200
 
-3. Then click on **Personal access tokens**.
+3. Then click **Tokens (classic)** on **Personal access tokens** menu:
 
-.. image:: https://docs.github.com/assets/images/help/settings/personal_access_tokens_tab.png
+.. image:: img/GH_personal_access_token.jpeg
     :width: 200
-
-4. Click **Tokens (classic)**.
 
 5. Then we will create the token by clicking on **Generate new token (classic)**.
 
-.. image:: https://docs.github.com/assets/images/help/settings/generate_new_token.png
+.. image:: img/GH_generate_classic_token.jpeg
     :width: 500
 
-6. Start by giving your token a name.
+6. In case Github wants to confirm access, **Use your password** (or Github Mobile if you have it configured) to continue:
 
-.. image:: img/token_name.png
+.. image:: img/GH_confirm_access_password.jpeg
+   :width: 300
+
+7. Give your token 1) a **Name**, 2) **Expiration date** (90 Days), and 3) select the appropriate scope by clicking the **repo**:
+
+.. image:: img/GH_token_information.jpeg
     :width: 500
 
-7. We will then give the token a expiration date. You can choose the duration you prefer, here we set it to the end of the year.
+8. Then we can click the **Generate token** button at the very bottom of the page to create and see our token:
 
-.. image:: img/token_expiration.png
-    :width: 300
-
-8. Next, we need to set the permissions, or scopes, that our token is granted. We are going to need it to be able to access and change our repositories. For that, we can select the check marks **repo**, **admin:repo_hook**, and **delete_repo**.
-
-.. image:: img/token_scopes.png
-    :width: 500
-
-9. Then we can click the **Generate token** button to create and see our token.
-
-.. image:: https://docs.github.com/assets/images/help/settings/generate_token.png
+.. image:: img/GH_generate_token_button.jpeg
     :width: 350
 
-10. We are then presented with our Personal access token. Do following:
-   - Click the copy button to copy it to your clipboard and then paste it into your text file in the JupyterLab session.
+10. We are then presented with our Personal access token. **This is only shown once!** Thus be sure to store this token somewhere safe. Do e.g. following:
 
-.. image:: https://docs.github.com/assets/images/help/settings/personal_access_tokens.png
+   1. **Click the copy button** to copy it to your clipboard and
+   2. **Create a new text-file somewhere safe on your computer,
+   3. **Paste the code into a text file** (alternatively you can store the token into a password manager if you use one).
+
+.. image:: img/GH_generated_token.jpeg
     :width: 500
 
-Open a text document and copy and paste your Personal access token in your text file, because for now we are going to use it like this, and we will later see how we can cache it so that we don't need to copy and paste it every time we need it. If your access token is lost, then you can just follow the steps above again to create a new one.
-
-Now the first thing we need is the URL of your exercise repository from GitHub. **Go to** https://github.com/IntroSDA-2024/ **and navigate to your personal Exercise-1 repository** (e.g. `exercise-1-HTenkanen`)
-
-On GitHub, find the button **Code** and copy the url under *Clone with HTTPS*.
-
-The URL looks something like this:
-https://github.com/IntroSDA-2024/exercise-3-HTenkanen.git but with your own username.
-
-.. figure:: img/git-copy-url.png
-
+After these preparatory steps, we can actually start working on the exercises in CSC Noppe environment, which we will introduce next.
 
 Start Noppe computing instance
 ------------------------------
@@ -170,9 +156,19 @@ Whenever you want to do programming on this course, the following steps need to 
 
 After these steps, you should have JupyterLab IDE running on your browser and you can start programming with it!
 
-
 Clone your personal Exercise repository from GitHub
 ---------------------------------------------------
+
+When you start working on a given Exercise, the first thing we need is the URL of your exercise repository from GitHub.
+**Go to** https://github.com/IntroSDA-2024/ **and navigate to your personal Exercise-3 repository** (e.g. ``exercise-3-HTenkanen``)
+
+On GitHub, find the button **Code** and copy the url under **Clone with HTTPS**.
+
+The URL looks something like this:
+https://github.com/IntroSDA-2024/exercise-3-HTenkanen.git but with your own username.
+
+.. figure:: img/git-copy-url.png
+
 
 During this course, we will most often start working with the exercises using an existing repository from GitHub.
 In order to get a copy of the exercise repository on our own computer (or the cloud computer), we need to ``clone`` it.
