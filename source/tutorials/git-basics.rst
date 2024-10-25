@@ -170,7 +170,7 @@ On GitHub, find the button **Code** and copy the url under **Clone with HTTPS**.
 The URL looks something like this:
 https://github.com/IntroSDA-2024/exercise-3-HTenkanen.git but with your own username.
 
-.. figure:: img/git-copy-url.png
+.. figure:: img/git-copy-url.webp
 
 
 During this course, we will most often start working with the exercises using an existing repository from GitHub.
@@ -181,11 +181,11 @@ is not a Git repository and gives you some options.
 
 In our case, we want to **Clone a Repository**:
 
-.. figure:: img/git-plugin-start-cloning.png
+.. figure:: img/git-plugin-start-cloning.webp
 
 Go ahead and paste your exercise repository URL into the pop-up window:
 
-.. figure:: img/git-plugin-clone.png
+.. figure:: img/git-plugin-clone.webp
 
 
 On the command line this action is equivalent to the ``git clone`` command.
@@ -203,7 +203,7 @@ Git needs to know who you are in order to give you access to remote repositories
 
 **Insert your GitHub username and personall access token**:
 
-.. figure:: img/git-plugin-credentials.png
+.. figure:: img/git-plugin-credentials.webp
 
 Now you should see a new folder in JupyterLab that is identical to the repository on GitHub.
 
@@ -215,7 +215,7 @@ Git status
 
 Navigate to the new folder in JupyterLab and activate the Git plugin. You should now see some basic info about your repository:
 
-.. figure:: img/git-plugin-status1.png
+.. figure:: img/git-plugin-status1.webp
 
 On the command line ``git status`` shows the status of the repository.
 
