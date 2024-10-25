@@ -1,30 +1,33 @@
-Tutorial 5.1 - Meet Git
-=======================
+Tutorial 0 - Meeting Git and Noppe
+==================================
 
-This tutorial covers the very basics of version control using Git and GitHub. After this lesson you should be able to do these steps in JupyterLab using git and the JupyterLab git-plugin:
+This tutorial covers the very basics of version control using Git/GitHub and the **Noppe** cloud computing environment that we use for programming on this course.
+After this tutorial you should be able to start working on the programming Exercises in Noppe. In the basic workflow, you will repeat these steps when working on the Exercises:
 
-1. `Clone a repository from GitHub`_
-2. `Add changes`_
-3. `Commit changes`_
-4. `Push changes to GitHub`_
+1. `Start Noppe computing instance`_
+2. `Clone your personal Exercise repository from GitHub`_
+3. `Add changes`_
+4. `Commit changes`_
+5. `Push changes to your personal Exercise repository in GitHub`_
 
 These steps can be completed either using the `JupyterLab git plugin`_ (we recommend this option for beginners) or using
 `Git from the command line`_.
 
-.. admonition:: Attribution
-
-    These materials have been adapted from `Geo-Python course <https://geo-python-site.readthedocs.io/en/latest>`__,  `GitHub Education Campus Advisors -resources <https://github.com/Campus-Advisors>`_, and `Git documentation <https://git-scm.com/about/>`__.
+The following tutorial will teach you step-by-step how you can start working on the Exercises using the CSC Noppe cloud computing environment.
 
 Key concepts
--------------
+------------
 
-We use Git to record changes to our files over time, and for communicating between the local repository on our computer and the remote repository on GitHub.
+Version control
+~~~~~~~~~~~~~~~
+
+We use Git to record changes to our files over time (hence, the name *version control*), and for communicating between the local repository on our computer and the remote repository on GitHub.
 A "repository", or a "Git project", or a "repo", is a location for storing files. A repo contains all the files and folders associated with a project and the revision history of each entity.
 In general, it is recommended that each project, library or discrete piece of software should have it's own repository.
 In this course each exercise has it's own repository on GitHub.
 
 During this course, we often start by cloning an existing repository from GitHub
-to our own computer using ``git clone``. Using ``git pull`` we can fetch (and merge) new changes from GitHub,
+to our cloud computer (or own computer) using ``git clone``. Using ``git pull`` we can fetch (and merge) new changes from GitHub,
 and ``git push`` publishes our local changes to GitHub. Read more about sharing and updating
 Git projects `in here <https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Sharing-and-Updating-Projects>`__.
 
@@ -40,9 +43,49 @@ Git which files to include in the next committed snapshot. Finally, ``git commit
 
     Version control steps using Git (adapted from `Git documentation <https://git-scm.com/about/staging-area>`__).
 
+Cloud computing
+~~~~~~~~~~~~~~~
+
+We will use a cloud-based computing environment called ``CSC Noppe`` to access interactive online version of the lessons
+and to work on the weekly exercises. You can use the cloud computing environment with any computer as long as it has a reasonably fast internet
+connection and a web browser (just don't use Internet Explorer).
+
+Please note that the cloud computing environments are **temporary** and they will be removed after the course.
+Always remember to push your changes to GitHub (and / or download a local copy).
+
+.. figure:: img/launch-buttons.png
+   :alt: Launch buttons
+   :width: 700px
+
+   Different options for making the lesson interactive
+
+Each interactive lesson and exercise will have a launch button for CSC Noppe.
+The CSC Noppe environment is only accessible to students from Finnish universities and research institutes.
+
+.. note::
+
+    You can also install Python and the same programming environment to your local computer, but it is not necessary in this course (we recommend using the cloud computing environment.
+    **However**, if you wish to do so, please read :doc:`this documentation <course-info/installing-miniconda>` to learn how to install Python and the libraries on your own computer.
 
 Preparations
 ------------
+
+Join the CSC Noppe workspace of the course
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Noppe by CSC (https://noppe.csc.fi) is a computing environment hosted by the Finnish IT Center for Science (CSC). CSC Noppe is used for running Jupyter Notebooks in a customized cloud computing environment.
+CSC Noppe is available only for students who are affiliated with Finnish universities and research institutes (via the HAKA user authentication).
+
+.. note:: **When using the CSC Notebooks for the first time, you need to join the group created for this course:**
+
+    1. Log in at https://noppe.csc.fi/
+    2. Select Haka for the authentication provider
+    3. Enter your Finnish university login credentials
+    4. Click on the **Join workspace** button on the top right
+    5. Join the ``Introduction to Spatial Data Analysis`` workspace using the join code ``int-zcwunyr9``
+
+    After joining the group, you should be able to view an environment called ``Introduction to Spatial Data Analysis`` on the Dashboard.
+
 
 Create a Personal Access Token
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,21 +142,37 @@ Before we start cloning our repository from GitHub, we need to create a Personal
 
 Open a text document and copy and paste your Personal access token in your text file, because for now we are going to use it like this, and we will later see how we can cache it so that we don't need to copy and paste it every time we need it. If your access token is lost, then you can just follow the steps above again to create a new one.
 
-Now the first thing we need is the URL of your exercise repository from GitHub. **Go to** https://github.com/Spatial-Analytics-2023/ **and navigate to your personal Exercise-1 repository** (e.g. `exercise-1-HTenkanen`)
+Now the first thing we need is the URL of your exercise repository from GitHub. **Go to** https://github.com/IntroSDA-2024/ **and navigate to your personal Exercise-1 repository** (e.g. `exercise-1-HTenkanen`)
 
 On GitHub, find the button **Code** and copy the url under *Clone with HTTPS*.
 
 The URL looks something like this:
-https://github.com/Spatial-Analytics-2023/exercise-1-HTenkanen.git but with your own username.
+https://github.com/IntroSDA-2024/exercise-3-HTenkanen.git but with your own username.
 
 .. figure:: img/git-copy-url.png
 
 
-JupyterLab git plugin
-------------------------
+Start Noppe computing instance
+------------------------------
 
-Clone a repository from GitHub
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Whenever you want to do programming on this course, the following steps need to be taken:
+
+.. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Noppe:**
+
+    1. Log in at https://noppe.csc.fi/
+    2. Click ``Start session`` (power button) on the Dashboard for ``Introduction to Spatial Data Analysis``
+    3. Wait. It might take a few moments for the instance to launch
+
+.. figure:: img/CSC_launch_new.png
+   :alt: Launch new Jupyter Lab instance
+
+   Launching the instance takes a few moments.
+
+After these steps, you should have JupyterLab IDE running on your browser and you can start programming with it!
+
+
+Clone your personal Exercise repository from GitHub
+---------------------------------------------------
 
 During this course, we will most often start working with the exercises using an existing repository from GitHub.
 In order to get a copy of the exercise repository on our own computer (or the cloud computer), we need to ``clone`` it.
@@ -228,8 +287,8 @@ On the command line the syntax for committing is ``git commit -m "commit message
 
     Type your username, press enter, and go to the text file with your access token, copy it, and paste into your terminal with **ctrl+v** and press enter. Then your username and access token should be stored and you can pull and push to and from GitHub without having to type your access token every time.
 
-Push changes to GitHub
-~~~~~~~~~~~~~~~~~~~~~~
+Push changes to your personal Exercise repository in GitHub
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Next, we want to synchronize our local changes with the remote repository on GitHub.
 
 .. figure:: img/git-plugin-pull-push-buttons.png
@@ -247,7 +306,7 @@ Now we are ready to push the local changes to GitHub using :code:`git push` (but
 
 .. figure:: img/git-plugin-push-ok.png
 
-Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/Spatial-Analytics-2022/ .
+Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/IntroSDA-2024/ .
 
 On the command line, ``git pull`` fetches and merges changes from the remote repository, and ``git pull`` publishes local changes.
 
