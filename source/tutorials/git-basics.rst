@@ -164,11 +164,11 @@ Start working on the Exercise
 
 The following demonstrates how to start working on a programming exercise using CSC Noppe:
 
-Start you exercise assignment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Start your exercise assignment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As a very first thing, you always need to start your Exercise assignment by creating your personal exercise repository by
-clicking the link on our dedicated website for different exercises, such as:
+As a very first thing, **you always need to start your Exercise assignment by creating your personal exercise repository**.
+You can do this by clicking the link on our dedicated website for different exercises, such as:
 
 - `Exercise 1 <https://introsda.readthedocs.io/en/latest/exercises/exercise-1.html>`__
 - `Exercise 2 <https://introsda.readthedocs.io/en/latest/exercises/exercise-2.html>`__
