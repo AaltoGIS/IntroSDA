@@ -69,8 +69,8 @@ Preparations
 
 These preparatory steps **only needs to be done once at the beginning of the course**:
 
-Join the CSC Noppe workspace of the course
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Join the CSC Noppe workspace of the course
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Noppe by CSC (https://noppe.csc.fi) is a computing environment hosted by the Finnish IT Center for Science (CSC). CSC Noppe is used for running Jupyter Notebooks in a customized cloud computing environment.
 CSC Noppe is available only for students who are affiliated with Finnish universities and research institutes (via the HAKA user authentication).
@@ -89,8 +89,8 @@ After joining the group, you should be able to view an environment called ``Intr
    :alt: CSC Noppe Workspace for the course
 
 
-Create a Personal Access Token
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2. Create a Personal Access Token
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Before we can clone a repository from GitHub, we need to create a Personal Access Token for us to be able to interact with GitHub. We will go through the basic setup here, you can also find more detailed instructions in the `GitHub documentation <https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token>`_.
 
@@ -110,34 +110,34 @@ Before we can clone a repository from GitHub, we need to create a Personal Acces
 .. image:: img/GH_personal_access_token.jpeg
     :width: 400
 
-5. Then we will create the token by clicking on **Generate new token (classic)**.
+4. Then we will create the token by clicking on **Generate new token (classic)**.
 
 .. image:: img/GH_generate_classic_token.jpeg
     :width: 500
 
-6. In case Github wants to confirm access, **Use your password** (or Github Mobile if you have it configured) to continue:
+5. In case Github wants to confirm access, **Use your password** (or Github Mobile if you have it configured) to continue:
 
 .. image:: img/GH_confirm_access_password.jpeg
    :width: 200
 
-7. Give your token 1) a **Name**, 2) **Expiration date** (90 Days), and 3) select the appropriate scope by clicking the **repo**:
+6. Give your token 1) a **Name**, 2) **Expiration date** (90 Days), and 3) select the appropriate scope by clicking the **repo**:
 
 .. image:: img/GH_token_information.jpeg
     :width: 500
 
-8. Then we can click the **Generate token** button at the very bottom of the page to create and see our token:
+7. Then we can click the **Generate token** button at the very bottom of the page to create and see our token:
 
 .. image:: img/GH_generate_token_button.jpeg
     :width: 500
 
-10. We are then presented with our Personal access token. **This is only shown once!** Thus be sure to store this token somewhere safe. Do e.g. following:
+8. We are then presented with our Personal access token. **This is only shown once!** Thus be sure to store this token somewhere safe. Do e.g. following:
+
+- **Click the copy button** to copy it to your clipboard and
+- **Create a new text-file** somewhere safe on your computer,
+- **Paste the code into a text file** (alternatively you can store the token into a password manager if you use one).
 
 .. image:: img/GH_generated_token.jpeg
     :width: 500
-
-- **Click the copy button** to copy it to your clipboard and
-- **Create a new text-file somewhere safe on your computer,
-- **Paste the code into a text file** (alternatively you can store the token into a password manager if you use one).
 
 After these preparatory steps, we can actually start working on the exercises in CSC Noppe environment, which we will introduce next.
 
