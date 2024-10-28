@@ -149,6 +149,14 @@ Contents
 
 .. toctree::
     :maxdepth: 1
+    :caption: Tutorials
+
+    tutorials/git-basics
+    tutorials/intro-to-python-geostack.ipynb
+
+
+.. toctree::
+    :maxdepth: 1
     :caption: Week 1
 
     lessons/L1/overview
@@ -186,15 +194,13 @@ Contents
     lessons/L5/overview
     lessons/L5/spatial-network-analysis
     lessons/L5/graph-problems-and-algorithms
-    .. lessons/L5/git-basics
-    .. lessons/L5/intro-to-python-geostack.ipynb
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 6
 
-    .. lessons/L6/overview
-    .. lessons/L6/spatial-field-data-and-map-algebra
+    lessons/L6/overview
+    lessons/L6/spatial-field-data-and-map-algebra
     .. lessons/L6/surface-analysis
 
 .. toctree::
