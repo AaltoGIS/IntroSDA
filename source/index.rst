@@ -199,8 +199,8 @@ Contents
     :maxdepth: 1
     :caption: Week 6
 
-    .. lessons/L6/overview
-    .. lessons/L6/spatial-field-data-and-map-algebra
+    lessons/L6/overview
+    lessons/L6/spatial-field-data-and-map-algebra
     .. lessons/L6/surface-analysis
 
 .. toctree::
