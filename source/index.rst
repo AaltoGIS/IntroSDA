@@ -153,6 +153,7 @@ Contents
 
     tutorials/git-basics
     tutorials/intro-to-python-geostack.ipynb
+    tutorials/spatial_network_analysis.ipynb
 
 
 .. toctree::
