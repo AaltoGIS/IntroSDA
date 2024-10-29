@@ -1,7 +1,7 @@
 Exercise 3
 ==========
 
-**Due date:** Please complete this exercise by Friday 15th November).
+**Due date:** Please complete this exercise by Friday 15th November.
 
 .. admonition:: Exercise 3 - Start your assignment
 
@@ -16,5 +16,5 @@ Cloud computing environment
 
 After you have your personal Exercise-3 exercise in GitHub, start doing the programming using CSC Noppe:
 
-    .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
-        :target: https://noppe.csc.fi
+.. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
+   :target: https://noppe.csc.fi
