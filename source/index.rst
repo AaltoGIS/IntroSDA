@@ -202,7 +202,7 @@ Contents
 
     lessons/L6/overview
     lessons/L6/spatial-field-data-and-map-algebra
-    .. lessons/L6/surface-analysis
+    lessons/L6/surface-analysis
 
 .. toctree::
     :maxdepth: 1
