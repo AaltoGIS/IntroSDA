@@ -4,7 +4,7 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Analysis of spatial field data; Map algebra <analysis-of-spatial-field-data>`
-- :doc:`Surface analysis <surface-analysis>`
+- :doc:`Raster data and surface processes <surface-analysis>`
 
 Lesson videos
 -------------
