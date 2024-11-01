@@ -9,8 +9,6 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-To be added.
-
     .. admonition:: Lesson 6.1 - Analysis of spatial field data; Map algebra
 
         Aalto University students can access the video by clicking the image below (requires login):
