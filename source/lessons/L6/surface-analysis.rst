@@ -1,5 +1,5 @@
-Map overlay & algebra
-=====================
+Raster Data and Surface Processes
+=================================
 
 .. raw:: html
 
