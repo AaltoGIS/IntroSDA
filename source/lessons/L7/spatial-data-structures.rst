@@ -1,5 +1,5 @@
-Computational geometry: Spatial data structures
-===============================================
+Spatial data structures and algorithms
+======================================
 
 .. raw:: html
 
