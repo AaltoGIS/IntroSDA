@@ -208,8 +208,8 @@ Contents
     :maxdepth: 1
     :caption: Week 7
 
-    .. lessons/L7/overview
-    .. lessons/L7/spatial-data-structures
+    lessons/L7/overview
+    lessons/L7/spatial-data-structures
     .. lessons/L7/voronoi-and-delanay
 
 .. toctree::
