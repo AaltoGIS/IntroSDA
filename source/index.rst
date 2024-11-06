@@ -202,14 +202,14 @@ Contents
 
     lessons/L6/overview
     lessons/L6/spatial-field-data-and-map-algebra
-    .. lessons/L6/surface-analysis
+    lessons/L6/surface-analysis
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 7
 
-    .. lessons/L7/overview
-    .. lessons/L7/spatial-data-structures
+    lessons/L7/overview
+    lessons/L7/spatial-data-structures
     .. lessons/L7/voronoi-and-delanay
 
 .. toctree::
