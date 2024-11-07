@@ -210,7 +210,7 @@ Contents
 
     lessons/L7/overview
     lessons/L7/spatial-data-structures
-    .. lessons/L7/voronoi-and-delanay
+    lessons/L7/voronoi-and-delanay
 
 .. toctree::
     :maxdepth: 1
