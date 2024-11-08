@@ -19,9 +19,17 @@ Lesson videos
             :width: 500px
             :align: left
 
-  ..  .. admonition:: Lesson 7.2 - TODO
+  .. admonition:: Lesson 7.2 - Voronoi, Delaunay and topology (in 2 parts)
+
         Aalto University students can access the video by clicking the image below (requires login):
-        .. figure:: img/Lesson6.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f63a1cb1-a08e-4f69-a1ab-b21a00b99610
+
+        .. figure:: img/Lesson7.2.png
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a92c4040-c40b-4e1d-8fdb-b22100b97267
             :width: 500px
             :align: left
+
+        .. figure:: img/Lesson7.2.png
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a52f4bea-39e0-49fc-826b-b22100c74174
+            :width: 500px
+            :align: left
+
