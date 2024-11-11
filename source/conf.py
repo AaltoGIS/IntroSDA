@@ -88,7 +88,7 @@ html_theme_options = {
     },
 
     # Possible announcement for the page
-    "announcement": ("📢 Exercises 1-3 + Week 1-5 videos now available (under 'Overview'). 📢"),
+    "announcement": ("📢 Exercises 1-4 + Week 1-7 videos now available (under 'Overview'). 📢"),
 }
 
 # Allow errors
