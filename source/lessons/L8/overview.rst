@@ -9,10 +9,12 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-.. .. admonition:: Lesson 8.1 - Spatial data indexing
+.. admonition:: Lesson 8.1 - Spatial data indexing
+
         Aalto University students can access the video by clicking the image below (requires login):
+
         .. figure:: img/Lesson8.1.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=96427408-d8a3-4538-889e-b21e00b972b5
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd2d76f7-0650-47a0-8d3b-b22500b97f2c
             :width: 500px
             :align: left
 
