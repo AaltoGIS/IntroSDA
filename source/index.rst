@@ -144,7 +144,7 @@ Contents
     exercises/exercise-1
     exercises/exercise-2
     exercises/exercise-3
-    .. exercises/exercise-4
+    exercises/exercise-4
     .. exercises/exercise-5
 
 .. toctree::
