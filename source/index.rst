@@ -218,7 +218,7 @@ Contents
 
     lessons/L8/overview
     lessons/L8/spatial-algorithms
-    .. lessons/L8/spatial-data-management-and-databases
+    lessons/L8/spatial-data-management-and-databases
 
 .. toctree::
     :maxdepth: 1
