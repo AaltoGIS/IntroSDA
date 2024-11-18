@@ -1,5 +1,5 @@
-Spatial algorithms
-==================
+Spatial data indexing
+=====================
 
 .. raw:: html
 
