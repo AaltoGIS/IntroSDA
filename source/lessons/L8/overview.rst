@@ -18,9 +18,11 @@ Lesson videos
             :width: 500px
             :align: left
 
-  .. .. admonition:: Lesson 7.2 - Voronoi, Delaunay and topology (in 2 parts)
+  .. admonition:: Lesson 8.2 - Spatial data management and databases
+
         Aalto University students can access the video by clicking the image below (requires login):
-        .. figure:: img/Lesson7.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a92c4040-c40b-4e1d-8fdb-b22100b97267
+
+        .. figure:: img/Lesson8.2.png
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d6eaed75-cd7a-4a92-8694-b22800b977f7
             :width: 500px
             :align: left
