@@ -224,8 +224,8 @@ Contents
     :maxdepth: 1
     :caption: Week 9
 
-    .. lessons/L9/overview
-    .. lessons/L9/multivariate-spatial-analysis
+    lessons/L9/overview
+    lessons/L9/multivariate-spatial-analysis
     .. lessons/L9/geoparsing-and-NLP
 
 .. toctree::
