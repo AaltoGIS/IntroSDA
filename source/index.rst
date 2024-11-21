@@ -226,7 +226,7 @@ Contents
 
     lessons/L9/overview
     lessons/L9/multivariate-spatial-analysis
-    .. lessons/L9/geoparsing-and-NLP
+    lessons/L9/intro-to-GeoAI
 
 .. toctree::
     :maxdepth: 1
