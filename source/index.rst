@@ -101,18 +101,17 @@ Topics per week are listed below. Please note that this web page is updated each
         - Map overlay & algebra
         - Surface analysis
     * - 7
-      - - Computational geometry
-        - Spatial data structures
-        - Topology and spatial relationships
+      - - Spatial data structures
+        - Spatial algorithms
+        - Computational geometry: Topology and spatial relationships
     * - 8
-      - - Spatial algorithms
+      - - Spatial data indexing
         - Spatial index
-        - Spatial databases
+        - Spatial data management and databases
     * - 9
       - - Clustering
         - Multivariate spatial analysis
-        - Geoparsing with Natural Language Processing
-
+        - Introduction to GeoAI
     * - 10
       - - Cartography and Map User Interfaces
         - Visual analytics
@@ -226,7 +225,7 @@ Contents
 
     lessons/L9/overview
     lessons/L9/multivariate-spatial-analysis
-    .. lessons/L9/geoparsing-and-NLP
+    lessons/L9/intro-to-GeoAI
 
 .. toctree::
     :maxdepth: 1

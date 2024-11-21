@@ -1,3 +1,0 @@
-Geoparsing using NLP techniques
-===============================
-
