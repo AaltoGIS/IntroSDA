@@ -111,7 +111,7 @@ Topics per week are listed below. Please note that this web page is updated each
     * - 9
       - - Clustering
         - Multivariate spatial analysis
-        - Geoparsing with Natural Language Processing
+        - Introduction to GeoAI
 
     * - 10
       - - Cartography and Map User Interfaces
