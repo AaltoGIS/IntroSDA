@@ -19,5 +19,13 @@ Lesson videos
         :width: 500px
         :align: left
 
+.. admonition:: Lesson 9.2 - Introduction to GeoAI
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/Lesson9.2.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6209da8c-d31a-4ad5-ac97-b22f00b97bc3
+        :width: 500px
+        :align: left
 
 

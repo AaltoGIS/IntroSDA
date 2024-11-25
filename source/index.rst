@@ -231,8 +231,8 @@ Contents
     :maxdepth: 1
     :caption: Week 10
 
-    .. lessons/L10/overview
-    .. lessons/L10/cartography-map-user-interfaces
+    lessons/L10/overview
+    lessons/L10/cartography-map-user-interfaces
     .. lessons/L10/visual-analytics
     .. lessons/L10/final-remarks
 
