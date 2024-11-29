@@ -144,7 +144,7 @@ Contents
     exercises/exercise-2
     exercises/exercise-3
     exercises/exercise-4
-    .. exercises/exercise-5
+    exercises/exercise-5
 
 .. toctree::
     :maxdepth: 1
@@ -234,5 +234,4 @@ Contents
     lessons/L10/overview
     lessons/L10/cartography-map-user-interfaces
     lessons/L10/visual-analytics
-    .. lessons/L10/final-remarks
 
