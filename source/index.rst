@@ -23,14 +23,20 @@ Prerequirements
 Before taking this course, it is required to know the basics of Python programming as well as GIS.
 
 **Python basics:** If you are new to Python, or would like to refresh your Python skills, we recommend to go through the Part 1 materials (Chapters 1-4) on the open online book,
-`Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__. In case you want to earn credits (5 ECTS) while learning the basics of Python,
+`Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__ by Tenkanen, Heikinheimo & Whipp (2025). In case you want to earn credits (5 ECTS) while learning the basics of Python,
 we recommend to take a course called Geo-Python at University of Helsinki which is available at `geo-python.github.io <http://geo-python.github.io/>`__.
 You can `enroll to this course via Sisu <https://sisu.aalto.fi/student/courseunit/otm-745028e1-2a87-4eb1-abce-ee708626fcb6/brochure>`__ (i.e. if you are a student at Aalto University).
 The course runs in the first teaching period (starting in September).
 
-**GIS with Python:** If you need to refresh your Python GIS skills, we recommend to go through the Part 2 materials (Chapters 5-8) on the open online book,
-`Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__. In case you want to earn credits (5 ECTS) while learning the GIS related techniques with Python,
-we recommend to take a course Automating GIS-processes (GEOG-329-2) at University of Helsinki which is available at `autogis.github.io <https://autogis.github.io/>`__.
+Supporting material
+-------------------
+
+**GIS with Python:** During this course, we will learn various GIS and spatial analysis techniques using Python programming. To support your learning,
+we recommend to go through the Part 2 materials (Chapters 5-8) on the open online book, `Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__.
+In addition, we will cover topics from `Geographic Data Science with Python <https://geographicdata.science/book/intro.html>`__ by Rey, Arribas-Bel & Wolf (2023) which we recommend
+as supporting reading.
+
+In case you want to earn credits (5 ECTS) while learning the GIS related techniques with Python, we recommend to take a course Automating GIS-processes (GEOG-329-2) at University of Helsinki which is available at `autogis.github.io <https://autogis.github.io/>`__.
 You can `enroll to this course via Sisu <https://sisu.aalto.fi/student/courseunit/otm-0dd8eff5-bd05-4bcf-982d-7d960506c1ba/brochure>`__ (i.e. if you are a student at Aalto University).
 The course runs in the second teaching period (starting at the end of October).
 
