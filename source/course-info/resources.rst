@@ -1,7 +1,10 @@
 Readings
 ========
 
-- Rey, S., D. Arribas-Bel, L. Wolf. (2021). `Geographic Data Science with Python <https://geographicdata.science/book/intro.html>`__. --> Is freely available online.
+There are various useful resources to support your learning. Below, we list a few recommended resources that you can use to learn more about the topics covered on this course:
+
+- Rey, S., D. Arribas-Bel, L. Wolf. (2023). `Geographic Data Science with Python <https://geographicdata.science/book/intro.html>`__. --> Is freely available online.
+- Tenkanen, H., V. Heikinheimo & D. Whipp (2025). `Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__ --> Is freely available online.
 - Paez, A. (2021). `An introduction to spatial data analysis and statistics: A course in R <https://www.spatial-analysis-r.org/>`__. --> Is freely available online.
 - Haining, R. & G. Li (2020). *Modelling Spatial and Spatial-Temporal Data - A Bayesian Approach.*
 - Chun, Y. & D. Griffith. (2013). *Spatial statistics & Geostatistics*.
