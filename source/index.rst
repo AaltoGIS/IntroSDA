@@ -5,6 +5,10 @@ and geovisual analysis. After the course, you can identify appropriate analysis 
 and describe data needs and suitable methods for the given analysis process. You can discuss the strengths and limitations of the methods.
 The course has been developed at the Department of Built Environment, Aalto University, Finland, and the materials are openly available for anyone interested.
 
+.. important::
+
+    Notice that the course starts only on the 3rd week of 1st teaching period, i.e. the first lecture is on Tuesday 16th September.
+
 Learning objectives
 -------------------
 
