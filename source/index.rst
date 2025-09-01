@@ -29,9 +29,9 @@ at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses inc
 
 .. admonition:: Help improving the materials
 
-    **This is version 1.**
+    **This is version 2.**
 
-    The course is given for the very first time in its current form in 2024, meaning that the content of the course is likely to change and
+    The course was given for the very first time in its current form in 2024, meaning that the content of the course is likely to change and
     improve after each time the course is given (all versions will be available). By being a fully open
     educational resource, **you can also help making the course better**.
     If you find any errors, typos, or other problems, please help, by suggesting an edit in GitHub. You can do this easily by clicking
@@ -90,31 +90,29 @@ Topics per week are listed below. Please note that this web page is updated each
         - Spatial effects: dependency and heterogeneity
         - Spatial autocorrelation
     * - 4
-      - - Geostatistics
-        - Spatial interpolation (IDW+Kriging)
+      - - Analysis of spatial field data
+        - Map overlay & algebra
+        - Surface analysis
     * - 5
       - - Spatial network analysis
         - Graph problems and shortest path algorithms
         - Optimization & centrality
     * - 6
-      - - Analysis of spatial field data
-        - Map overlay & algebra
-        - Surface analysis
-    * - 7
       - - Spatial data structures
         - Spatial algorithms
         - Computational geometry: Topology and spatial relationships
-    * - 8
+    * - 7
       - - Spatial data indexing
         - Spatial index
         - Spatial data management and databases
+    * - 8
+      - - Geostatistics
+        - Spatial interpolation (IDW+Kriging)
     * - 9
-      - - Clustering
-        - Multivariate spatial analysis
-        - Introduction to GeoAI
-    * - 10
       - - Cartography and Map User Interfaces
         - Visual analytics
+    * - 10
+      - - Introduction to GeoAI
 
 |
 
@@ -140,98 +138,98 @@ Contents
     :maxdepth: 1
     :caption: Exercises
 
-    exercises/exercise-1
-    exercises/exercise-2
-    exercises/exercise-3
-    exercises/exercise-4
-    exercises/exercise-5
+    .. exercises/exercise-1
+    .. exercises/exercise-2
+    .. exercises/exercise-3
+    .. exercises/exercise-4
+    .. exercises/exercise-5
 
 .. toctree::
     :maxdepth: 1
     :caption: Tutorials
 
     tutorials/git-basics
-    tutorials/intro-to-python-geostack.ipynb
-    tutorials/spatial_network_analysis.ipynb
+    .. tutorials/intro-to-python-geostack.ipynb
+    .. tutorials/spatial_network_analysis.ipynb
 
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 1
 
-    lessons/L1/overview
-    lessons/L1/introduction
-    lessons/L1/introduction-to-spatial-analysis
-    lessons/L1/spatial-data-potential-and-pitfalls
+    .. lessons/L1/overview
+    .. lessons/L1/introduction
+    .. lessons/L1/introduction-to-spatial-analysis
+    .. lessons/L1/spatial-data-potential-and-pitfalls
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 2
 
-   lessons/L2/overview
-   lessons/L2/spatial-data-model
-   lessons/L2/point-pattern-analysis
+   .. lessons/L2/overview
+   .. lessons/L2/spatial-data-model
+   .. lessons/L2/point-pattern-analysis
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 3
 
-    lessons/L3/overview
-    lessons/L3/spatial-effects
-    lessons/L3/spatial-autocorrelation
+    .. lessons/L3/overview
+    .. lessons/L3/spatial-effects
+    .. lessons/L3/spatial-autocorrelation
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 4
 
-    lessons/L4/overview
-    lessons/L4/geostatistics-kriging
+    .. lessons/L4/overview
+    .. lessons/L4/geostatistics-kriging
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 5
 
-    lessons/L5/overview
-    lessons/L5/spatial-network-analysis
-    lessons/L5/graph-problems-and-algorithms
+    .. lessons/L5/overview
+    .. lessons/L5/spatial-network-analysis
+    .. lessons/L5/graph-problems-and-algorithms
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 6
 
-    lessons/L6/overview
-    lessons/L6/spatial-field-data-and-map-algebra
-    lessons/L6/surface-analysis
+    .. lessons/L6/overview
+    .. lessons/L6/spatial-field-data-and-map-algebra
+    .. lessons/L6/surface-analysis
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 7
 
-    lessons/L7/overview
-    lessons/L7/spatial-data-structures
-    lessons/L7/voronoi-and-delanay
+    .. lessons/L7/overview
+    .. lessons/L7/spatial-data-structures
+    .. lessons/L7/voronoi-and-delanay
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 8
 
-    lessons/L8/overview
-    lessons/L8/spatial-indexing
-    lessons/L8/spatial-data-management-and-databases
+    .. lessons/L8/overview
+    .. lessons/L8/spatial-indexing
+    .. lessons/L8/spatial-data-management-and-databases
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 9
 
-    lessons/L9/overview
-    lessons/L9/multivariate-spatial-analysis
-    lessons/L9/intro-to-GeoAI
+    .. lessons/L9/overview
+    .. lessons/L9/multivariate-spatial-analysis
+    .. lessons/L9/intro-to-GeoAI
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 10
 
-    lessons/L10/overview
-    lessons/L10/cartography-map-user-interfaces
-    lessons/L10/visual-analytics
+    .. lessons/L10/overview
+    .. lessons/L10/cartography-map-user-interfaces
+    .. lessons/L10/visual-analytics
 
