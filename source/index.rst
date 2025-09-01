@@ -7,7 +7,7 @@ The course has been developed at the Department of Built Environment, Aalto Univ
 
 .. important::
 
-    Notice that the course starts only on the 3rd week of 1st teaching period, i.e. the first lecture is on Tuesday 16th September.
+    Notice that the **course starts only on the 3rd week of 1st teaching period, i.e. the first lecture is on Tuesday 16th September**.
 
 Learning objectives
 -------------------
