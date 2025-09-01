@@ -21,11 +21,18 @@ Prerequirements
 ---------------
 
 Before taking this course, it is required to know the basics of Python programming as well as GIS.
-If you are new to Python, or would like to refresh your Python skills, we recommend to start with an online
-and open access course called Geo-Python which is available at `geo-python.github.io <http://geo-python.github.io/>`__.
-If you need to refresh your Python GIS skills, we recommend starting with a course Automating GIS-processes available
-at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses include tutorials, videos and exercises.
 
+**Python basics:** If you are new to Python, or would like to refresh your Python skills, we recommend to go through the Part 1 materials (Chapters 1-4) on the open online book,
+`Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__. In case you want to earn credits (5 ECTS) while learning the basics of Python,
+we recommend to take a course called Geo-Python at University of Helsinki which is available at `geo-python.github.io <http://geo-python.github.io/>`__.
+You can `enroll to this course via Sisu <https://sisu.aalto.fi/student/courseunit/otm-745028e1-2a87-4eb1-abce-ee708626fcb6/brochure>`__ (i.e. if you are a student at Aalto University).
+The course runs in the first teaching period (starting in September).
+
+**GIS with Python:** If you need to refresh your Python GIS skills, we recommend to go through the Part 2 materials (Chapters 5-8) on the open online book,
+`Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__. In case you want to earn credits (5 ECTS) while learning the GIS related techniques with Python,
+we recommend to take a course Automating GIS-processes (GEOG-329-2) at University of Helsinki which is available at `autogis.github.io <https://autogis.github.io/>`__.
+You can `enroll to this course via Sisu <https://sisu.aalto.fi/student/courseunit/otm-0dd8eff5-bd05-4bcf-982d-7d960506c1ba/brochure>`__ (i.e. if you are a student at Aalto University).
+The course runs in the second teaching period (starting at the end of October).
 
 .. admonition:: Help improving the materials
 
