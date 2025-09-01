@@ -21,11 +21,14 @@ Prerequirements
 ---------------
 
 Before taking this course, it is required to know the basics of Python programming as well as GIS.
-If you are new to Python, or would like to refresh your Python skills, we recommend to start with an online
-and open access course called Geo-Python which is available at `geo-python.github.io <http://geo-python.github.io/>`__.
-If you need to refresh your Python GIS skills, we recommend starting with a course Automating GIS-processes available
-at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses include tutorials, videos and exercises.
 
+**Python basics:** If you are new to Python, or would like to refresh your Python skills, we recommend to go through the Part 1 materials (Chapters 1-4) on the open online book,
+`Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__. In case you want to earn credits (5 ECTS) while learning the basics of Python,
+we recommend to take a course called Geo-Python at University of Helsinki which is available at `geo-python.github.io <http://geo-python.github.io/>`__.
+
+**GIS with Python:** If you need to refresh your Python GIS skills, we recommend to go through the Part 2 materials (Chapters 5-8) on the open online book,
+`Introduction to Python for Geographic Data Analysis <https://pythongis.org/>`__. In case you want to earn credits (5 ECTS) while learning the GIS related techniques with Python,
+we recommend to take a course Automating GIS-processes available at `autogis.github.io <https://autogis.github.io/>`__.
 
 .. admonition:: Help improving the materials
 
