@@ -1,6 +1,7 @@
 version: 2
 
-configuration: source/conf.py
+sphinx:
+  configuration: source/conf.py
 
 python:
   install:
