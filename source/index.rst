@@ -174,9 +174,9 @@ Contents
     :maxdepth: 1
     :caption: Week 1
 
-    .. lessons/L1/overview
-    .. lessons/L1/introduction
-    .. lessons/L1/introduction-to-spatial-analysis
+    lessons/L1/overview
+    lessons/L1/introduction
+    lessons/L1/introduction-to-spatial-analysis
     .. lessons/L1/spatial-data-potential-and-pitfalls
 
 .. toctree::
