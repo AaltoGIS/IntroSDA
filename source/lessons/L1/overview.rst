@@ -11,15 +11,16 @@ The first week of this course will be dedicated to various introductions. We wil
 Lesson videos
 -------------
 
-TBA.
+.. admonition:: Lesson 1.1 - Course overview; Introduction to spatial analysis
 
-..    .. admonition:: Lesson 1.1 - Course overview; Introduction to spatial analysis
         Aalto University students can access the video by clicking the image below (requires login):
+
         .. figure:: img/Lesson1.1.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=30937237-0d3b-46f7-9720-b1ee0077afdd
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af89022f-1ed7-40ae-aa70-b35a0077970e
             :width: 500px
             :align: left
-    .. admonition:: Lesson 1.2 - Challenges and Pitfalls of spatial data
+
+..    .. admonition:: Lesson 1.2 - Challenges and Pitfalls of spatial data
        Aalto University students can access the video by clicking the image below (requires login):
        .. figure:: img/Lesson1.2.png
             :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e17aa55b-602e-4821-a474-b1f000778ba9
