@@ -165,7 +165,7 @@ Contents
     :maxdepth: 1
     :caption: Tutorials
 
-    tutorials/git-basics
+    .. tutorials/git-basics
     .. tutorials/intro-to-python-geostack.ipynb
     .. tutorials/spatial_network_analysis.ipynb
 
@@ -174,9 +174,9 @@ Contents
     :maxdepth: 1
     :caption: Week 1
 
-    .. lessons/L1/overview
-    .. lessons/L1/introduction
-    .. lessons/L1/introduction-to-spatial-analysis
+    lessons/L1/overview
+    lessons/L1/introduction
+    lessons/L1/introduction-to-spatial-analysis
     .. lessons/L1/spatial-data-potential-and-pitfalls
 
 .. toctree::
