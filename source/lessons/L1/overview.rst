@@ -5,7 +5,7 @@ The first week of this course will be dedicated to various introductions. We wil
 
 - :doc:`Introduction to the course and learning objectives <introduction>`
 - :doc:`Introduction to spatial analysis <introduction-to-spatial-analysis>`
-.. - :doc:`Potential and pitfalls of spatial data <spatial-data-potential-and-pitfalls>`
+- :doc:`Potential and pitfalls of spatial data <spatial-data-potential-and-pitfalls>`
 
 
 Lesson videos
@@ -20,7 +20,7 @@ Lesson videos
             :width: 500px
             :align: left
 
-..    .. admonition:: Lesson 1.2 - Challenges and Pitfalls of spatial data
+..    .. admonition:: Lesson 1.2 - Potential and pitfalls of spatial data
        Aalto University students can access the video by clicking the image below (requires login):
        .. figure:: img/Lesson1.2.png
             :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e17aa55b-602e-4821-a474-b1f000778ba9
