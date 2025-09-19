@@ -20,9 +20,11 @@ Lesson videos
             :width: 500px
             :align: left
 
-..    .. admonition:: Lesson 1.2 - Potential and pitfalls of spatial data
+.. admonition:: Lesson 1.2 - Potential and pitfalls of spatial data
+
        Aalto University students can access the video by clicking the image below (requires login):
+
        .. figure:: img/Lesson1.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e17aa55b-602e-4821-a474-b1f000778ba9
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8d253100-a7e5-40aa-865a-b35c00779e46
             :width: 500px
             :align: left
