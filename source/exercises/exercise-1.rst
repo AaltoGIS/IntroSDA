@@ -1,7 +1,7 @@
 Exercise 1
 ==========
 
-**Due date:** Please complete this exercise by **Friday 11th October**.
+**Due date:** Please complete this exercise by **Friday 10th October**.
 
 .. admonition:: Pre-assignment - Create a GitHub account
 
@@ -22,11 +22,11 @@ Exercise 1
 
     You can start working on your personal (private) copy of Exercise 1 by:
 
-      - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/KLVfTBRZ>`__.
+      - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Quqde_Ch>`__.
 
     Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
     After you have your personal Exercise-1 exercise in GitHub, start doing the exercise using ArcGIS Pro.
 
 
-You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/IntroSDA-2024/Exercise-1>`__ (does not require logging in).
+You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/IntroSDA-2025/Exercise-1>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
