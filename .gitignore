@@ -3,3 +3,6 @@ build
 .DS_store
 .ipynb_checkpoints
 slides
+cache
+Logos.pptx
+resources
