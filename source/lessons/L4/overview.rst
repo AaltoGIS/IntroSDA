@@ -3,7 +3,7 @@ Overview
 
 In this week, we will learn about:
 
-- :doc:`Analysis of spatial field data; Map algebra <analysis-of-spatial-field-data>`
+- :doc:`Analysis of spatial field data; Map algebra <spatial-field-data-and-map-algebra>`
 - :doc:`Raster data and surface processes <surface-analysis>`
 
 Lesson videos
