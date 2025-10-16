@@ -177,12 +177,12 @@ Clone your personal Exercise repository from GitHub
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you start working on a given Exercise, the first thing we need is the URL of your exercise repository from GitHub.
-**Go to** https://github.com/IntroSDA-2024/ **and navigate to your personal Exercise-3 repository** (e.g. ``exercise-3-HTenkanen``)
+**Go to** https://github.com/IntroSDA-2025/ **and navigate to your personal Exercise-3 repository** (e.g. ``exercise-3-HTenkanen``)
 
 On GitHub, find the button **Code** and copy the url under **Clone with HTTPS**.
 
 The URL looks something like this:
-https://github.com/IntroSDA-2024/exercise-3-HTenkanen.git but with your own username.
+https://github.com/IntroSDA-2025/exercise-3-HTenkanen.git but with your own username.
 
 .. figure:: img/git-copy-url.webp
 
@@ -318,7 +318,7 @@ Now we are ready to push the local changes to GitHub using :code:`git push` (but
 
 .. figure:: img/git-plugin-push-ok.webp
 
-Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/IntroSDA-2024/ .
+Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/IntroSDA-2025/ .
 
 On the command line, ``git pull`` fetches and merges changes from the remote repository, and ``git pull`` publishes local changes.
 
