@@ -156,17 +156,17 @@ Contents
 
     exercises/exercise-1
     exercises/exercise-2
-    .. exercises/exercise-3
-    .. exercises/exercise-4
+    exercises/exercise-3
+    exercises/exercise-4
     .. exercises/exercise-5
 
 .. toctree::
     :maxdepth: 1
     :caption: Tutorials
 
-    .. tutorials/git-basics
-    .. tutorials/intro-to-python-geostack.ipynb
-    .. tutorials/spatial_network_analysis.ipynb
+    tutorials/git-basics
+    tutorials/intro-to-python-geostack.ipynb
+    tutorials/spatial_network_analysis.ipynb
 
 
 .. toctree::
