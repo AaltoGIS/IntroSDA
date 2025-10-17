@@ -207,8 +207,8 @@ Contents
     :maxdepth: 1
     :caption: Week 5
 
-    .. lessons/L5/overview
-    .. lessons/L5/spatial-network-analysis
+    lessons/L5/overview
+    lessons/L5/spatial-network-analysis
     .. lessons/L5/graph-problems-and-algorithms
 
 
