@@ -5,9 +5,9 @@ In this week, we will learn about:
 
 - :doc:`Introduction to spatial network analysis <spatial-network-analysis>`
 - :doc:`Spatial graph problems and algorithsm <graph-problems-and-algorithms>`
-.. - :doc:`Tutorial 1: Introduction to Git and using CSC Noppe <git-basics>`
-.. - :doc:`Tutorial 2: Introduction to Python for geospatial analysis <intro-to-python-geostack>`
-.. - :doc:`Exercise 3 <../../exercises/exercise-3>`
+- :doc:`Tutorial 1: Introduction to Git and using CSC Noppe <git-basics>`
+- :doc:`Tutorial 2: Introduction to Python for geospatial analysis <intro-to-python-geostack>`
+- :doc:`Exercise 3 <../../exercises/exercise-3>`
 
 
 Lesson videos
