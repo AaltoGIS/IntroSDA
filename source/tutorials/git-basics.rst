@@ -81,7 +81,7 @@ CSC Noppe is available only for students who are affiliated with Finnish univers
     2. Select Haka for the authentication provider
     3. Enter your Finnish university login credentials
     4. Click on the **Join workspace** button on the top right
-    5. Join the ``Introduction to Spatial Data Analysis`` workspace using the join code ``int-zcwunyr9``
+    5. Join the ``Introduction to Spatial Data Analysis`` workspace using the join code ``hnyp7f87i2rl``
 
 After joining the group, you should be able to view an environment called ``Introduction to Spatial Data Analysis`` on the Dashboard:
 
@@ -130,7 +130,8 @@ Before we can clone a repository from GitHub, we need to create a Personal Acces
 .. image:: img/GH_generate_token_button.jpeg
     :width: 500
 
-8. We are then presented with our Personal access token. **This is only shown once!** Thus be sure to store this token somewhere safe. Do e.g. following:
+8. We are then presented with our Personal access token. **This is only shown once!** Thus be sure to store this token somewhere safe because you will need it
+continuously when submitting your work to Github. Do e.g. following:
 
 - **Click the copy button** to copy it to your clipboard and
 - **Create a new text-file** somewhere safe on your computer,
@@ -172,17 +173,19 @@ You can do this by clicking the link on our dedicated website for different exer
 
 - `Exercise 1 <https://introsda.readthedocs.io/en/latest/exercises/exercise-1.html>`__
 - `Exercise 2 <https://introsda.readthedocs.io/en/latest/exercises/exercise-2.html>`__
+- `Exercise 3 <https://introsda.readthedocs.io/en/latest/exercises/exercise-3.html>`__
+- `Exercise 4 <https://introsda.readthedocs.io/en/latest/exercises/exercise-4.html>`__
 
 Clone your personal Exercise repository from GitHub
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you start working on a given Exercise, the first thing we need is the URL of your exercise repository from GitHub.
-**Go to** https://github.com/IntroSDA-2024/ **and navigate to your personal Exercise-3 repository** (e.g. ``exercise-3-HTenkanen``)
+**Go to** https://github.com/IntroSDA-2025/ **and navigate to your personal Exercise-3 repository** (e.g. ``exercise-3-HTenkanen``)
 
 On GitHub, find the button **Code** and copy the url under **Clone with HTTPS**.
 
 The URL looks something like this:
-https://github.com/IntroSDA-2024/exercise-3-HTenkanen.git but with your own username.
+https://github.com/IntroSDA-2025/exercise-3-HTenkanen.git but with your own username.
 
 .. figure:: img/git-copy-url.webp
 
@@ -318,7 +321,7 @@ Now we are ready to push the local changes to GitHub using :code:`git push` (but
 
 .. figure:: img/git-plugin-push-ok.webp
 
-Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/IntroSDA-2024/ .
+Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/IntroSDA-2025/ .
 
 On the command line, ``git pull`` fetches and merges changes from the remote repository, and ``git pull`` publishes local changes.
 
