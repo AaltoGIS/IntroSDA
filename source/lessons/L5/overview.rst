@@ -13,11 +13,10 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-
-
 .. admonition:: Lesson 5.1 - Introduction to spatial network analysis
 
     Aalto University students can access the video by clicking the image below (requires login):
+
     .. figure:: img/Lesson5.1.png
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5e41ee4c-df62-4cc5-8a76-b37c00a9e1c0
         :width: 500px
