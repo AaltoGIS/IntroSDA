@@ -225,8 +225,8 @@ Contents
     :maxdepth: 1
     :caption: Week 7
 
-    .. lessons/L7/overview
-    .. lessons/L7/spatial-indexing
+    lessons/L7/overview
+    lessons/L7/spatial-indexing
     .. lessons/L7/spatial-data-management-and-databases
 
 .. toctree::
