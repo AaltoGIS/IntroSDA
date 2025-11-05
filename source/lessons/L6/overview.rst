@@ -12,9 +12,19 @@ Lesson videos
 
 .. admonition:: Lesson 6.1 - Spatial data structures and algorithms
 
-    TBA
+    Aalto University students can access the video by clicking the image below (requires login):
 
-.. admonition:: Lesson 6.2 - Voronoi, Delaunay and topology (in 2 parts)
+    .. figure:: img/Lesson6.1.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4c3da0dc-be04-4be7-a1bc-b38300b9797d
+        :width: 500px
+        :align: left
 
-    TBA
+.. admonition:: Lesson 6.2 - Voronoi, Delaunay and topology
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/Lesson6.2.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c4f6637d-40e3-4ac7-9a58-b38600b97858
+        :width: 500px
+        :align: left
 
