@@ -227,7 +227,7 @@ Contents
 
     lessons/L7/overview
     lessons/L7/spatial-indexing
-    .. lessons/L7/spatial-data-management-and-databases
+    lessons/L7/spatial-data-management-and-databases
 
 .. toctree::
     :maxdepth: 1

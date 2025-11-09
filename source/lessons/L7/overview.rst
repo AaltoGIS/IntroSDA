@@ -4,7 +4,7 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Spatial data indexing <spatial-indexing>`
-.. - :doc:`Spatial data management and databases <spatial-data-management-and-databases>`
+- :doc:`Spatial data management and databases <spatial-data-management-and-databases>`
 
 Lesson videos
 -------------
@@ -18,8 +18,10 @@ Lesson videos
         :width: 500px
         :align: left
 
-.. .. admonition:: Lesson 7.2 - Spatial data management and databases
+.. admonition:: Lesson 7.2 - Spatial data management and databases
+
         Aalto University students can access the video by clicking the image below (requires login):
+
         .. figure:: img/Lesson7.2.png
             :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d6eaed75-cd7a-4a92-8694-b22800b977f7
             :width: 500px
