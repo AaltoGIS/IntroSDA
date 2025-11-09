@@ -4,7 +4,7 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Spatial data indexing <spatial-indexing>`
-.. - :doc:`Spatial data management and databases <spatial-data-management-and-databases>`
+- :doc:`Spatial data management and databases <spatial-data-management-and-databases>`
 
 Lesson videos
 -------------
