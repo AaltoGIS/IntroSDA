@@ -233,8 +233,8 @@ Contents
     :maxdepth: 1
     :caption: Week 8
 
-    .. lessons/L8/overview
-    .. lessons/L8/geostatistics-kriging
+    lessons/L8/overview
+    lessons/L8/geostatistics-kriging
 
 
 .. toctree::
