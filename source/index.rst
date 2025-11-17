@@ -241,9 +241,9 @@ Contents
     :maxdepth: 1
     :caption: Week 9
 
-    .. lessons/L9/overview
-    .. lessons/L9/cartography-map-user-interfaces
-    .. lessons/L9/visual-analytics
+    lessons/L9/overview
+    lessons/L9/cartography-map-user-interfaces
+    lessons/L9/visual-analytics
 
 .. toctree::
     :maxdepth: 1
