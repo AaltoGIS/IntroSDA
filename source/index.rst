@@ -158,7 +158,7 @@ Contents
     exercises/exercise-2
     exercises/exercise-3
     exercises/exercise-4
-    .. exercises/exercise-5
+    exercises/exercise-5
 
 .. toctree::
     :maxdepth: 1
