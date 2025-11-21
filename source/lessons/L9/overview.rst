@@ -18,9 +18,11 @@ Lesson videos
         :width: 500px
         :align: left
 
-..    .. admonition:: Lesson 9.2 - Visual analytics
+.. admonition:: Lesson 9.2 - Visual analytics
+
     Aalto University students can access the video by clicking the image below (requires login):
+
     .. figure:: img/Lesson9.2.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7ac93ef9-92f6-41e5-bd9e-b23600b97750
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=163d563d-efec-4b2e-91ee-b39b00b96a9a
         :width: 500px
         :align: left
