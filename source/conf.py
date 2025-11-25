@@ -17,8 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
+import datetime
+
+year = int(datetime.datetime.now().year)
+
 project = 'Introduction to Spatial Analysis'
-copyright = '2024, Henrikki Tenkanen & Jussi Nikander, Dept. of Built Environment, Aalto University'
+copyright = f'{year}, Henrikki Tenkanen & Jussi Nikander, Dept. of Built Environment, Aalto University'
 author = 'Henrikki Tenkanen & Jussi Nikander'
 
 # -- General configuration ---------------------------------------------------
