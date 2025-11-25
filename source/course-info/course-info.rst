@@ -31,7 +31,7 @@ Instructors
 Email: *firstname.lastname@aalto.fi*
 
 * Guest lecturer: Pyry Kettunen, FGI
-* Course assistants: Aino Schulz, Juho Antikainen
+* Course assistants: Newsha Modjrian, Emma Onnela, Aliisa Villberg
 
 Course websites
 ---------------
@@ -40,7 +40,7 @@ Course websites
 
   - Main course site: `<https://introsda.readthedocs.io>`_
   - Noppe by CSC: `<https://noppe.csc.fi>`_
-  - Slack (Q&A + chat): `<https://introsda-2024.slack.com>`_
+  - Slack (Q&A + chat): `<https://introsda.slack.com>`_
   - Polling / voting (active during lectures only): `presemo.aalto.fi/sds <https://presemo.aalto.fi/sds/>`__
 
 - Other useful resources:
