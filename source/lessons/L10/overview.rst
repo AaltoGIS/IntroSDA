@@ -4,7 +4,7 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Machine Learning & GeoAI approaches for spatial data analysis (Part 1) <intro-to-GeoAI>`
-.. - :doc:`Machine Learning & GeoAI approaches for spatial data analysis (Part 2) <intro-to-GeoAI-2>`
+- :doc:`Machine Learning & GeoAI approaches for spatial data analysis (Part 2) <intro-to-GeoAI-2>`
 
 Lesson videos
 -------------
