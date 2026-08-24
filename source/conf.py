@@ -92,7 +92,7 @@ html_theme_options = {
     },
 
     # Possible announcement for the page
-    "announcement": ("📢 Exercises 5 has been added to the course page. 📢"),
+   # "announcement": ("📢 Exercises 5 has been added to the course page. 📢"),
 }
 
 # Allow errors
