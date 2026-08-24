@@ -6,7 +6,7 @@ and describe data needs and suitable methods for the given analysis process. You
 The course has been developed at the Department of Built Environment, Aalto University, Finland, and the materials are openly available for anyone interested.
 
 .. .. important::
-    Notice that the **course starts only on the 3rd week of 1st teaching period, i.e. the first lecture is on Tuesday 16th September**.
+    Notice that the **course starts only on the 3rd week of 1st teaching period, i.e. the first lecture is on Tuesday 15th September**.
 
 Learning objectives
 -------------------
@@ -45,7 +45,7 @@ The course runs in the second teaching period (starting at the end of October).
 
 .. admonition:: Help improving the materials
 
-    **This is version 2.**
+    **This is version 3.**
 
     The course was given for the very first time in its current form in 2024, meaning that the content of the course is likely to change and
     improve after each time the course is given (all versions will be available). By being a fully open
@@ -154,62 +154,62 @@ Contents
     :maxdepth: 1
     :caption: Exercises
 
-    exercises/exercise-1
-    exercises/exercise-2
-    exercises/exercise-3
-    exercises/exercise-4
-    exercises/exercise-5
+    .. exercises/exercise-1
+    .. exercises/exercise-2
+    .. exercises/exercise-3
+    .. exercises/exercise-4
+    .. exercises/exercise-5
 
 .. toctree::
     :maxdepth: 1
     :caption: Tutorials
 
-    tutorials/git-basics
-    tutorials/intro-to-python-geostack.ipynb
-    tutorials/spatial_network_analysis.ipynb
+    .. tutorials/git-basics
+    .. tutorials/intro-to-python-geostack.ipynb
+    .. tutorials/spatial_network_analysis.ipynb
 
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 1
 
-    lessons/L1/overview
-    lessons/L1/introduction
-    lessons/L1/introduction-to-spatial-analysis
-    lessons/L1/spatial-data-potential-and-pitfalls
+    .. lessons/L1/overview
+    .. lessons/L1/introduction
+    .. lessons/L1/introduction-to-spatial-analysis
+    .. lessons/L1/spatial-data-potential-and-pitfalls
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 2
 
-   lessons/L2/overview
-   lessons/L2/spatial-data-model
-   lessons/L2/point-pattern-analysis
+   .. lessons/L2/overview
+   .. lessons/L2/spatial-data-model
+   .. lessons/L2/point-pattern-analysis
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 3
 
-    lessons/L3/overview
-    lessons/L3/spatial-effects
-    lessons/L3/spatial-autocorrelation
+    .. lessons/L3/overview
+    .. lessons/L3/spatial-effects
+    .. lessons/L3/spatial-autocorrelation
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 4
 
-    lessons/L4/overview
-    lessons/L4/spatial-field-data-and-map-algebra
-    lessons/L4/surface-analysis
+    .. lessons/L4/overview
+    .. lessons/L4/spatial-field-data-and-map-algebra
+    .. lessons/L4/surface-analysis
 
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 5
 
-    lessons/L5/overview
-    lessons/L5/spatial-network-analysis
-    lessons/L5/graph-problems-and-algorithms
+    .. lessons/L5/overview
+    .. lessons/L5/spatial-network-analysis
+    .. lessons/L5/graph-problems-and-algorithms
 
 
 
@@ -217,40 +217,40 @@ Contents
     :maxdepth: 1
     :caption: Week 6
 
-    lessons/L6/overview
-    lessons/L6/spatial-data-structures
-    lessons/L6/voronoi-and-delanay
+    .. lessons/L6/overview
+    .. lessons/L6/spatial-data-structures
+    .. lessons/L6/voronoi-and-delanay
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 7
 
-    lessons/L7/overview
-    lessons/L7/spatial-indexing
-    lessons/L7/spatial-data-management-and-databases
+    .. lessons/L7/overview
+    .. lessons/L7/spatial-indexing
+    .. lessons/L7/spatial-data-management-and-databases
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 8
 
-    lessons/L8/overview
-    lessons/L8/geostatistics-kriging
+    .. lessons/L8/overview
+    .. lessons/L8/geostatistics-kriging
 
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 9
 
-    lessons/L9/overview
-    lessons/L9/cartography-map-user-interfaces
-    lessons/L9/visual-analytics
+    .. lessons/L9/overview
+    .. lessons/L9/cartography-map-user-interfaces
+    .. lessons/L9/visual-analytics
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 10
 
-    lessons/L10/overview
-    lessons/L10/intro-to-GeoAI
-    lessons/L10/intro-to-GeoAI-2
+    .. lessons/L10/overview
+    .. lessons/L10/intro-to-GeoAI
+    .. lessons/L10/intro-to-GeoAI-2
 
 
