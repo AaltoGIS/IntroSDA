@@ -2,10 +2,10 @@ Grading
 =======
 
 Course grades will be given using the standard six-level grading scale from 0 to 5.
-Course grade will be based on 1) weekly exercises and 2) final exam.
+Course grade will be based on 1) weekly exercises and 2) quizzes.
 
-The final grade is based 50 % on the weekly exercise submissions and 50 % of the final exam.
-At least half of the points from both exercises and exam is needed to pass the course.
+The final grade is based 50 % on the weekly exercise submissions and 50 % of the quizzes.
+At least half of the points from both exercises and quizzes are needed to pass the course.
 
 
 Preliminary grading thresholds:
