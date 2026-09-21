@@ -7,9 +7,9 @@ Exercise 3
 
     You can start working on your personal (private) copy of Exercise 3 by:
 
-    - `accepting the Classroom assignment <https://classroom.github.com/a/RxUa9sV4>`__.
+    - |exercise-3-accept|.
 
-You can also take a look at the open course copy of `Exercise 3 in the course GitHub repository <https://github.com/IntroSDA-2026/Exercise-3>`__ (does not require logging in).
+You can also take a look at the open course copy of |exercise-3-repo| (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via Classroom50.
 
 Cloud computing environment

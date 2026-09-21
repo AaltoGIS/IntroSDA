@@ -81,7 +81,7 @@ CSC Noppe is available only for students who are affiliated with Finnish univers
     2. Select Haka for the authentication provider
     3. Enter your Finnish university login credentials
     4. Click on the **Join workspace** button on the top right
-    5. Join the ``Introduction to Spatial Data Analysis`` workspace using the join code ``hnyp7f87i2rl``
+    5. Join the ``Introduction to Spatial Data Analysis`` workspace using the join code |noppe-join-code|
 
 After joining the group, you should be able to view an environment called ``Introduction to Spatial Data Analysis`` on the Dashboard:
 
@@ -181,12 +181,12 @@ Clone your personal Exercise repository from GitHub
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you start working on a given Exercise, the first thing we need is the URL of your exercise repository from GitHub.
-**Go to** https://github.com/IntroSDA-2026/ **and navigate to your personal Exercise-3 repository** (e.g. ``isda-exercise-3-htenkanen``)
+**Go to** |course-org-url| **and navigate to your personal Exercise-3 repository** (e.g. ``isda-exercise-3-htenkanen``)
 
 On GitHub, find the button **Code** and copy the url under **Clone with HTTPS**.
 
 The URL looks something like this:
-https://github.com/IntroSDA-2026/isda-exercise-3-htenkanen.git but with your own username.
+|example-clone-url| but with your own username.
 
 .. figure:: img/git-copy-url.webp
 
@@ -322,7 +322,7 @@ Now we are ready to push the local changes to GitHub using :code:`git push` (but
 
 .. figure:: img/git-plugin-push-ok.webp
 
-Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/IntroSDA-2026/ .
+Now you should see the updates in GitHub! Go and have a look at your personal repository in |course-org-url| .
 
 On the command line, ``git pull`` fetches and merges changes from the remote repository, and ``git push`` publishes local changes.
 

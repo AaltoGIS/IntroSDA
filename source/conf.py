@@ -25,6 +25,36 @@ project = 'Introduction to Spatial Analysis'
 copyright = f'{year}, Henrikki Tenkanen & Jussi Nikander, Dept. of Built Environment, Aalto University'
 author = 'Henrikki Tenkanen & Jussi Nikander'
 
+# -- Course year -------------------------------------------------------------
+# Change this one value each year. The GitHub organization name, the exercise
+# repository links and the Classroom50 assignment links all follow from it.
+# Note: `year` above is the current calendar year (used for the copyright), and
+# is not the same thing as the year of the course edition.
+
+course_year = "2026"
+classroom_course = "isda"          # Classroom50 course slug, also the repo prefix
+noppe_join_code = "hnyp7f87i2rl"   # not derived from the year; update separately
+
+course_org = f"IntroSDA-{course_year}"
+_gh = f"https://github.com/{course_org}"
+_cr = f"https://classroom50.org/{course_org}/{classroom_course}/assignments"
+
+rst_epilog = f"""
+.. |course-year| replace:: {course_year}
+.. |course-org| replace:: {course_org}
+.. |course-org-url| replace:: `{_gh}/ <{_gh}/>`__
+.. |noppe-join-code| replace:: ``{noppe_join_code}``
+.. |example-clone-url| replace:: `{_gh}/{classroom_course}-exercise-3-htenkanen.git <{_gh}/{classroom_course}-exercise-3-htenkanen.git>`__
+"""
+
+for _n in range(1, 6):
+    rst_epilog += (
+        f".. |exercise-{_n}-repo| replace:: "
+        f"`Exercise {_n} in the course GitHub repository <{_gh}/Exercise-{_n}>`__\n"
+        f".. |exercise-{_n}-accept| replace:: "
+        f"`accepting the Classroom assignment <{_cr}/exercise-{_n}/accept>`__\n"
+    )
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
