@@ -154,8 +154,8 @@ Contents
     :maxdepth: 1
     :caption: Exercises
 
-    .. exercises/exercise-1
-    .. exercises/exercise-2
+    exercises/exercise-1
+    exercises/exercise-2
     .. exercises/exercise-3
     .. exercises/exercise-4
     .. exercises/exercise-5
@@ -164,7 +164,7 @@ Contents
     :maxdepth: 1
     :caption: Tutorials
 
-    .. tutorials/git-basics
+    tutorials/git-basics
     .. tutorials/intro-to-python-geostack.ipynb
     .. tutorials/spatial_network_analysis.ipynb
 

@@ -1,16 +1,16 @@
 Exercise 2
 ==========
 
-**Due date:** Please complete this exercise by **Friday 24th October**.
+**Due date:** Please complete this exercise by **Friday 23rd October**.
 
 .. admonition:: Exercise 2 - Start your assignment
 
     You can start working on your personal (private) copy of Exercise 2 by:
 
-    - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Oz4RCe-n>`__.
+    - `accepting the Classroom assignment <https://classroom50.org/IntroSDA-2026/isda/assignments/exercise-2/accept>`__.
 
-Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity.
-In such case, choose "Authorize GitHub Classroom".
+If you cannot accept the Classroom assignment, ensure that you have accepted the invitation to join IntroSDA-2026 Github organization. 
+You should have received a message about this to your Aalto email. 
 
-You can also take a look at the open course copy of `Exercise 2 in the course GitHub repository <https://github.com/IntroSDA-2025/Exercise-2>`__ (does not require logging in).
+You can also take a look at the open course copy of `Exercise 2 in the course GitHub repository <https://github.com/IntroSDA-2026/Exercise-2>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
