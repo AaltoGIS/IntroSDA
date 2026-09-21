@@ -182,9 +182,10 @@ Contents
    :maxdepth: 1
    :caption: Week 2
 
-   .. lessons/L2/overview
+   lessons/L2/overview
+   lessons/L2/point-pattern-analysis
    .. lessons/L2/spatial-data-model
-   .. lessons/L2/point-pattern-analysis
+   
 
 .. toctree::
     :maxdepth: 1
