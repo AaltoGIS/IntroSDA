@@ -22,11 +22,11 @@ Exercise 1
 
     You can start working on your personal (private) copy of Exercise 1 by:
 
-      - `accepting the Classroom assignment <https://classroom50.org/IntroSDA-2026/isda/assignments/exercise-1/accept>`__.
+    - `accepting the Classroom assignment <https://classroom50.org/IntroSDA-2026/isda/assignments/exercise-1/accept>`__.
 
-    If you cannot accept the Classroom assignment, ensure that you have accepted the invitation to join IntroSDA-2026 Github organization. 
+    If you cannot accept the Classroom assignment, ensure that you have accepted the invitation to join IntroSDA-2026 GitHub organization.
     You should have received a message about this to your Aalto email. After you have your personal Exercise-1 exercise in GitHub, start doing the exercise using ArcGIS Pro.
 
 
 You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/IntroSDA-2026/Exercise-1>`__ (does not require logging in).
-Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
+Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via Classroom50.

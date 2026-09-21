@@ -1,15 +1,16 @@
 Exercise 3
 ==========
 
-**Due date:** Please complete this exercise by Friday 7th November.
+**Due date:** Please complete this exercise by **Friday 6th November**.
 
 .. admonition:: Exercise 3 - Start your assignment
 
-    You can start working on your personal (private) copy of Exercise 3 by
-    - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/RxUa9sV4>`__.
+    You can start working on your personal (private) copy of Exercise 3 by:
 
-You can also take a look at the open course copy of `Exercise 3 in the course GitHub repository <https://github.com/IntroSDA-2025/Exercise-3>`__ (does not require logging in).
-Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
+    - `accepting the Classroom assignment <https://classroom.github.com/a/RxUa9sV4>`__.
+
+You can also take a look at the open course copy of `Exercise 3 in the course GitHub repository <https://github.com/IntroSDA-2026/Exercise-3>`__ (does not require logging in).
+Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via Classroom50.
 
 Cloud computing environment
 ---------------------------
