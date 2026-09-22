@@ -75,13 +75,13 @@ These preparatory steps **only needs to be done once at the beginning of the cou
 Noppe by CSC (https://noppe.csc.fi) is a computing environment hosted by the Finnish IT Center for Science (CSC). CSC Noppe is used for running Jupyter Notebooks in a customized cloud computing environment.
 CSC Noppe is available only for students who are affiliated with Finnish universities and research institutes (via the HAKA user authentication).
 
-.. note:: **When using the CSC Notebooks for the first time, you need to join the group created for this course:**
+.. note:: **When using the CSC Noppe for the first time, you need to join the group created for this course:**
 
     1. Log in at https://noppe.csc.fi/
     2. Select Haka for the authentication provider
     3. Enter your Finnish university login credentials
     4. Click on the **Join workspace** button on the top right
-    5. Join the ``Introduction to Spatial Data Analysis`` workspace using the join code ``hnyp7f87i2rl``
+    5. Join the ``Introduction to Spatial Data Analysis`` workspace using the join code |noppe-join-code|
 
 After joining the group, you should be able to view an environment called ``Introduction to Spatial Data Analysis`` on the Dashboard:
 
@@ -175,17 +175,18 @@ You can do this by clicking the link on our dedicated website for different exer
 - `Exercise 2 <https://introsda.readthedocs.io/en/latest/exercises/exercise-2.html>`__
 - `Exercise 3 <https://introsda.readthedocs.io/en/latest/exercises/exercise-3.html>`__
 - `Exercise 4 <https://introsda.readthedocs.io/en/latest/exercises/exercise-4.html>`__
+- `Exercise 5 <https://introsda.readthedocs.io/en/latest/exercises/exercise-5.html>`__
 
 Clone your personal Exercise repository from GitHub
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you start working on a given Exercise, the first thing we need is the URL of your exercise repository from GitHub.
-**Go to** https://github.com/IntroSDA-2025/ **and navigate to your personal Exercise-3 repository** (e.g. ``exercise-3-HTenkanen``)
+**Go to** |course-org-url| **and navigate to your personal Exercise-3 repository** (e.g. ``isda-exercise-3-htenkanen``)
 
 On GitHub, find the button **Code** and copy the url under **Clone with HTTPS**.
 
 The URL looks something like this:
-https://github.com/IntroSDA-2025/exercise-3-HTenkanen.git but with your own username.
+|example-clone-url| but with your own username.
 
 .. figure:: img/git-copy-url.webp
 
@@ -217,7 +218,7 @@ Credentials
 
 Git needs to know who you are in order to give you access to remote repositories.
 
-**Insert your GitHub username and personall access token**:
+**Insert your GitHub username and personal access token**:
 
 .. figure:: img/git-plugin-credentials.webp
 
@@ -294,7 +295,7 @@ On the command line the syntax for committing is ``git commit -m "commit message
 
     Then change the folder you are in by typing (with your username):
 
-    ``cd exercise/excercise-1-HTenkanen/``
+    ``cd exercise/isda-exercise-1-htenkanen/``
 
     We then pull from our GitHub repository:
 
@@ -321,9 +322,9 @@ Now we are ready to push the local changes to GitHub using :code:`git push` (but
 
 .. figure:: img/git-plugin-push-ok.webp
 
-Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/IntroSDA-2025/ .
+Now you should see the updates in GitHub! Go and have a look at your personal repository in |course-org-url| .
 
-On the command line, ``git pull`` fetches and merges changes from the remote repository, and ``git pull`` publishes local changes.
+On the command line, ``git pull`` fetches and merges changes from the remote repository, and ``git push`` publishes local changes.
 
 That's all you need to know about Git for now :)
 
@@ -399,16 +400,16 @@ The basic workflow of cloning a repository, adding changes to the staging area, 
     When we cloned the repository using ``git clone``, Git automatically started tracking the remote repository from where we cloned the project.
     You can use the ``git remote -v`` command to double check which remote your repository is tracking.
 
-    **A common mistake during this course is that you have accidentally cloned the template repository in stead of your own/your teams repository.**
+    **A common mistake during this course is that you have accidentally cloned the template repository instead of your own/your teams repository.**
 
     You can read more about managing remotes `in here <https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes>`__.
 
 
-.. admonition:: Master branch
+.. admonition:: Main branch
 
-    **Branches and branching** are powerful features in Git that allow maintaining parallel versions of the same project.
-    During this course you don't need to worry too much about branches. However, it is good to understand that **we are working on the master branch of our repository**. For example, when using the ``git push`` command,
-    the full syntax is ``git push origin master`` which means that we are pushing the changes to the master branch of the remote repository called origin. Read more about git branches `in here <https://git-scm.com/docs/git-branch>`__.
+    **Branches and branching** are useful features in Git that allow maintaining parallel versions of the same project.
+    During this course you don't need to worry too much about branches. However, it is good to understand that **we are working on the main branch of our repository**. For example, when using the ``git push`` command,
+    the full syntax is ``git push origin main`` which means that we are pushing the changes to the main branch of the remote repository called origin. Read more about git branches `in here <https://git-scm.com/docs/git-branch>`__.
 
 
 Resolving conflicts

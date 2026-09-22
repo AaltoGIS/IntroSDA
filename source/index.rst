@@ -154,8 +154,8 @@ Contents
     :maxdepth: 1
     :caption: Exercises
 
-    .. exercises/exercise-1
-    .. exercises/exercise-2
+    exercises/exercise-1
+    exercises/exercise-2
     .. exercises/exercise-3
     .. exercises/exercise-4
     .. exercises/exercise-5
@@ -182,9 +182,10 @@ Contents
    :maxdepth: 1
    :caption: Week 2
 
-   .. lessons/L2/overview
+   lessons/L2/overview
+   lessons/L2/point-pattern-analysis
    .. lessons/L2/spatial-data-model
-   .. lessons/L2/point-pattern-analysis
+   
 
 .. toctree::
     :maxdepth: 1
