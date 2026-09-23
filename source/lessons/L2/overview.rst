@@ -11,7 +11,14 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-To be added.
+.. admonition:: Lesson 2.1 - Exercise practicalities; Point pattern analysis
+
+        Aalto University students can access the video by clicking the image below (requires login):
+
+        .. figure:: img/Lesson2.2.png
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10e66472-edc9-41a8-9364-b4cd0078bfdc
+            :width: 500px
+            :align: left
 
 .. .. admonition:: Lesson 2.1 - Spatial data model
         Aalto University students can access the video by clicking the image below (requires login):
@@ -20,9 +27,3 @@ To be added.
             :width: 500px
             :align: left
 
-.. .. admonition:: Lesson 2.2 - Point pattern analysis
-        Aalto University students can access the video by clicking the image below (requires login):
-        .. figure:: img/Lesson2.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a49b8386-0031-4654-949a-b36300781405
-            :width: 500px
-            :align: left
