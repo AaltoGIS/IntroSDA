@@ -4,7 +4,7 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Point pattern analysis <point-pattern-analysis>`
-.. - :doc:`Spatial data modelling <spatial-data-model>`
+- :doc:`Spatial data modelling <spatial-data-model>`
 - :doc:`Exercise 1 <../../exercises/exercise-1>`
 
 
