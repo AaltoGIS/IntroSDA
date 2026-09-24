@@ -23,7 +23,7 @@ Lesson videos
 .. admonition:: Lesson 2.1 - Spatial data model
         Aalto University students can access the video by clicking the image below (requires login):
         .. figure:: img/Lesson2.1.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ec2cf90-d1bd-4e94-8d26-b3610077e3d8
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab637597-bd36-46b9-bc57-b4cf0077c5bf
             :width: 500px
             :align: left
 
