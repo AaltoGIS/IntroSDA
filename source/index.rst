@@ -191,8 +191,8 @@ Contents
     :maxdepth: 1
     :caption: Week 3
 
-    .. lessons/L3/overview
-    .. lessons/L3/spatial-effects
+    lessons/L3/overview
+    lessons/L3/spatial-effects
     .. lessons/L3/spatial-autocorrelation
 
 .. toctree::
