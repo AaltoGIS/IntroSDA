@@ -21,6 +21,7 @@ Lesson videos
             :align: left
 
 .. admonition:: Lesson 2.2 - Spatial data model
+
         Aalto University students can access the video by clicking the image below (requires login):
 
         .. figure:: img/Lesson2.1.png
