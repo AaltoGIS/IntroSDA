@@ -9,12 +9,12 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-To be added.
+.. admonition:: Lesson 3.1 - Statistical Inference and Spatial Effects
 
-.. .. admonition:: Lesson 3.1 - Statistical Inference and Spatial Effects
         Aalto University students can access the video by clicking the image below (requires login):
+
         .. figure:: img/Lesson3.1.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e2d672fb-2d2a-47d7-b6af-b36800782b70
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=415087bd-24c1-4a82-8fc5-b4d40078deff
             :width: 500px
             :align: left
 
