@@ -18,10 +18,12 @@ Lesson videos
             :width: 500px
             :align: left
 
-.. .. admonition:: Lesson 3.2 - Spatial weights and spatial autocorrelation
+.. admonition:: Lesson 3.2 - Spatial weights and spatial autocorrelation
+
         Aalto University students can access the video by clicking the image below (requires login):
+
         .. figure:: img/Lesson3.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8e375a53-4b90-4d2d-abb0-b36a0077de55
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c6c24ae9-f71d-4962-a4c3-b4d600785fb9
             :width: 500px
             :align: left
 
