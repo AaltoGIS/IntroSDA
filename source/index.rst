@@ -193,7 +193,7 @@ Contents
 
     lessons/L3/overview
     lessons/L3/spatial-effects
-    .. lessons/L3/spatial-autocorrelation
+    lessons/L3/spatial-autocorrelation
 
 .. toctree::
     :maxdepth: 1
