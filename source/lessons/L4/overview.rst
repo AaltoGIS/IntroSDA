@@ -9,7 +9,7 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-.. admonition:: Lesson 4.1 - Analysis of spatial field data; Map algebra
+.. .. admonition:: Lesson 4.1 - Analysis of spatial field data; Map algebra
 
     Aalto University students can access the video by clicking the image below (requires login):
 
@@ -18,7 +18,7 @@ Lesson videos
         :width: 500px
         :align: left
 
-.. admonition:: Lesson 4.2 - Surface processes
+.. .. admonition:: Lesson 4.2 - Surface processes
 
     Aalto University students can access the video by clicking the image below (requires login):
 
