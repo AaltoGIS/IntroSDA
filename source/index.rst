@@ -200,8 +200,8 @@ Contents
     :caption: Week 4
 
     lessons/L4/overview
-    lessons/L4/spatial-field-data-and-map-algebra
-    lessons/L4/surface-analysis
+    .. lessons/L4/spatial-field-data-and-map-algebra
+    .. lessons/L4/surface-analysis
 
 
 .. toctree::
