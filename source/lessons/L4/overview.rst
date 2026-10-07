@@ -9,12 +9,12 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-.. .. admonition:: Lesson 4.1 - Analysis of spatial field data; Map algebra
+.. admonition:: Lesson 4.1 - Analysis of spatial field data; Map algebra
 
     Aalto University students can access the video by clicking the image below (requires login):
 
     .. figure:: img/Lesson4.1.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b2477443-128c-462b-8847-b36f0077f134
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=92151a38-03dd-461a-bdcf-b4db00778b1f
         :width: 500px
         :align: left
 
