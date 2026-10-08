@@ -18,12 +18,17 @@ Lesson videos
         :width: 500px
         :align: left
 
-.. .. admonition:: Lesson 4.2 - Surface processes
+.. admonition:: Lesson 4.2 - Surface processes
 
-    Aalto University students can access the video by clicking the image below (requires login):
+    The video is in 2 parts due to technical problems. Aalto University students can access the video by clicking the image below (requires login):
 
     .. figure:: img/Lesson4.2.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b9975d3c-c0e0-4457-8286-b37100780c85
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ba3884c7-929e-4349-8356-b4dd00778a59
+        :width: 500px
+        :align: left
+
+    .. figure:: img/Lesson4.2.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f54cf8e5-5f7a-43c7-b3a7-b4dd0080507c
         :width: 500px
         :align: left
 
