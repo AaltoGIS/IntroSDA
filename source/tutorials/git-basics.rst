@@ -62,7 +62,7 @@ The CSC Noppe environment is only accessible to students from Finnish universiti
 .. note::
 
     You can also install Python and the same programming environment to your local computer, but it is not necessary in this course (we recommend using the cloud computing environment.
-    **However**, if you wish to do so, please read :doc:`this documentation <course-info/installing-miniconda>` to learn how to install Python and the libraries on your own computer.
+    **However**, if you wish to do so, please read :doc:`this documentation </course-info/installing-miniconda>` to learn how to install Python and the libraries on your own computer.
 
 Preparations
 ------------
