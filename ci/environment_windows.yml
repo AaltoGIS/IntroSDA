@@ -4,14 +4,13 @@ channels:
   - conda-forge
 
 dependencies:
-  - python=3.11.6
+  - python=3.14
   - clustergram
   - contextily
   - dash
-  - dask=2023.3.2
+  - dask
   - dask-ml
   - datashader
-  - earthpy
   - esda
   - folium
   - geojson
@@ -24,41 +23,40 @@ dependencies:
   - h3-py
   - hvplot
   - inequality
-  - jupyterlab=4.2.4
+  - jupyterlab
   - jupyterlab-git
-  - legendgram
+  - jupyterlab-myst
   - mapclassify
   - matplotlib
   - mesa
   - mgwr
   - momepy
   - movingpandas
-  - mplleaflet
   - networkx
-  - openpyxl
   - openjdk
+  - openpyxl
+  - osmnx
   - palettable
-  - pandana
   - pandas
-  - pexpect==4.9.0
-  - plotly_express
+  - pexpect
   - pointpats
   - polyline
+  - protobuf
   - pyarrow
-  - pygeos
   - pykrige
   - pyogrio
   - pysal
   - python-igraph
+  - python-rapidjson
   - r5py
-  - r5py.sampledata.helsinki>=0.1.1dev2
-  - r5py.sampledata.sao_paulo>=0.1.1dev2
+  - r5py.sampledata.helsinki
+  - r5py.sampledata.sao_paulo
   - rasterio
   - rasterstats
   - richdem
   - rioxarray
   - scikit-image
-  - scikit-learn=1.2.2
+  - scikit-learn
   - scipy
   - seaborn
   - segregation
@@ -70,14 +68,10 @@ dependencies:
   - statsmodels
   - tobler
   - tqdm
-  - urbanaccess
   - xarray
-  - xarray_leaflet
   - xarray-spatial
   - xlrd
   - xlsxwriter
   - pip
   - pip:
-      - osmnx==2.0.0b3
-      - jupyterlab_myst
-
+      - pyrosm>=0.22
