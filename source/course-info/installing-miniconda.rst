@@ -64,7 +64,7 @@ Install Miniconda 3 and add it to system path using Terminal:
     nano ~/.bashrc
 
     # Add following line at the end of the file and save (EDIT ACCORDING YOUR INSTALLATION PATH)
-    export PATH=$PATH:/PATH_TO_MINICONDA/miniconda3/bin:/PATH_TO_MINICONDA/miniconda3/lib/python3.11/site-packages
+    export PATH=/PATH_TO_MINICONDA/miniconda3/bin:$PATH
 
 Install the course environment
 ------------------------------
@@ -103,26 +103,23 @@ After installing ``mamba``, the main steps for creating and using a conda enviro
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
-We have prepared a ready-made environment file for you (called ``environment_XX.yml``). You can download the file from the links below. Pick the link according your operating system
-(on the download page: righ-click the ``Raw`` button -> And press ``Save link as ..``):
+We have prepared a ready-made environment file for you, called ``environment.yml``. The same file works on Windows, macOS and Linux.
+You can download it from `this link <https://raw.githubusercontent.com/AaltoGIS/IntroSDA/master/environment.yml>`__
+(right-click the link and choose ``Save link as ...``).
 
-- `Windows <https://github.com/AaltoGIS/Spatial-Analytics/blob/master/ci/environment_windows.yml>`__
-- `MacOS / Linux <https://github.com/AaltoGIS/Spatial-Analytics/blob/master/ci/environment_unix.yml>`__
+The environment installs all packages from the ``conda-forge`` channel, except ``pyrosm``, which is installed with ``pip``
+because its latest version is not yet available on ``conda-forge``. This happens automatically when you create the environment.
 
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
 The commands below work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
 1. **Create the Python environment** based on the file that you downloaded by using a terminal (or command prompt)
-and executing the following command in the directory where you downloaded the `.yml` file (pick the one for your operating system):
+and executing the following command in the directory where you downloaded the ``environment.yml`` file:
 
 .. code-block::
 
-    # Windows users, should run this command
-    mamba env create -f environment_windows.yml
-
-    # Mac / Linux users, should run this command
-    mamba env create -f environment_unix.yml
+    mamba env create -f environment.yml
 
 2. **Activate the environment**:
 
@@ -136,7 +133,7 @@ You should now see the name of the environment at the start of the command line.
 
 .. code-block::
 
-    python -c "import r5py; import geopandas; import fiona"
+    python -c "import geopandas, pyrosm, osmnx, r5py, xrspatial"
 
 In case the command runs and does not return any errors, everything works!
 If not, i) ensure that you have activated the environment, (step 2 above), ii) ensure that all packages installed properly (step 1).
@@ -151,8 +148,6 @@ It's a good idea to first navigate to the folder where your Jupyter Notebook -fi
 .. code-block::
 
     jupyter lab
-
-Note, Jupyter Lab will probably prompt you to "Build" the installation in order to get the git-plugin to show.
 
 Note about OpenJDK Java Development Kit
 ---------------------------------------
