@@ -3,9 +3,10 @@ Install Python + libraries (optional)
 
 The purpose of this page is to help you to install Python and different Python packages into your own computer.
 Even though it is possible to install Python from the `Python homepage <https://www.python.org/>`_, **we highly recommend using** `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ to install Python.
-Miniconda comes with Python and a small number of essential packages.
-Additional packages can be installed using the package management systems `mamba <https://mamba.readthedocs.io/en/latest/index.html>`_ or `conda <https://docs.conda.io/en/latest/>`__.
-Both offer similar functionality, but we suggest using mamba because it is significantly faster for installing the libraries needed for using Python for GIS.
+Miniconda comes with Python, a small number of essential packages, and the package manager `conda <https://docs.conda.io/en/latest/>`__
+that you use to install additional packages.
+Since version 23.10, conda uses the fast solver of `mamba <https://mamba.readthedocs.io/en/latest/index.html>`_ under the hood,
+so you do not need to install any additional tools to install the libraries needed for using Python for GIS.
 
 Miniconda is a light-weight version of `Anaconda <https://www.anaconda.com/>`_ which is an open source distribution of the Python and R programming
 languages for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment. In short,
@@ -36,8 +37,8 @@ Install Miniconda to your computer by double clicking the installer and install 
 Install it to **local user** and use the default settings.
 
 After the installation is completed, test that the package manager ``conda`` works by
-`opening an ``Anaconda prompt (miniconda3)`` from the start menu,
-and running command ``conda --version``. If the command returns a version number of conda (e.g. ``conda 4.5.9``) everything is working correctly.
+opening an ``Anaconda prompt (miniconda3)`` from the start menu,
+and running command ``conda --version``. If the command returns a version number of conda, everything is working correctly.
 
 macOS
 ~~~~~~~~
@@ -81,25 +82,12 @@ if not necessary.
 Conda has an excellent documentation about `creating and managing conda environments <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`__
 where you can check details of the used commands.
 
-Installing mamba
-~~~~~~~~~~~~~~~~
-
-To get started we will install the mamba package manager in our new Miniconda environment.
-We can install mamba by **opening an Anaconda prompt (miniconda)** and running the following:
-
-.. code-block:: bash
-
-    # Install mamba
-    conda install --override-channels -c conda-forge mamba 'python_abi=*=*cp*'
-
-If you're curious, you can find more about mamba in the `online user guide <https://mamba.readthedocs.io/en/latest/index.html>`__ which covers most of the basic things, such as installing new packages.
-
 Installing the packages
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-After installing ``mamba``, the main steps for creating and using a conda environment:
+The main steps for creating and using a conda environment are:
 
-1. create the environment from environment.yml file using mamba,
+1. create the environment from environment.yml file using conda,
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
@@ -119,7 +107,7 @@ and executing the following command in the directory where you downloaded the ``
 
 .. code-block::
 
-    mamba env create -f environment.yml
+    conda env create -f environment.yml
 
 2. **Activate the environment**:
 
@@ -157,24 +145,24 @@ In case you have installed the Python environment as instructed above,
 you don't need to do anything as the Java JDK came with the Python environment!
 
 
-General guide for installing packages with Mamba/Conda
-------------------------------------------------------
+General guide for installing packages with conda
+------------------------------------------------
 
 Conda has an excellent `online user guide <https://docs.conda.io/projects/conda/en/latest/index.html>`__ which covers most of the basic things,
-such as installing new packages. You can replace all `conda` commands listed in the user guide with `mamba` to be able to install the packages much faster.
+such as installing new packages.
 
-Mamba install
+Conda install
 ~~~~~~~~~~~~~
 
-You can install new packages using the `mamba install <https://docs.conda.io/projects/conda/en/latest/commands/install.html>`__
-command. The basic syntax for installing packages is ``mamba install package-name``.
+You can install new packages using the `conda install <https://docs.conda.io/projects/conda/en/latest/commands/install.html>`__
+command. The basic syntax for installing packages is ``conda install package-name``.
 In addition, we also want to specify the **conda channel** from where the package is downloaded using the parameter `-c`.
 
 **Installing Pandas package from the conda-forge channel:**
 
 .. code-block::
 
-    mamba install -c conda-forge pandas
+    conda install -c conda-forge pandas
 
 Once you run this command, you will see also other packages getting installed and/or updated as conda checks for dependencies of the installed package.
 Read more about package installations in the `conda documentation <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#installing-packages>`__
@@ -184,9 +172,9 @@ You can **install other useful packages in a similar way:**
 
 .. code-block::
 
-    mamba install -c conda-forge matplotlib
-    mamba install -c conda-forge hvplot
-    mamba install -c conda-forge geopandas
+    conda install -c conda-forge matplotlib
+    conda install -c conda-forge hvplot
+    conda install -c conda-forge geopandas
 
 .. admonition:: Conda channels
 
@@ -213,7 +201,7 @@ For other options and more information, take a look at the `JupyterLab installat
 
 .. code-block::
 
-    mamba install -c conda-forge jupyterlab
+    conda install -c conda-forge jupyterlab
 
 After installation is completed, **you can start a JupyterLab instance** by running this command (notice the space between the words!):
 

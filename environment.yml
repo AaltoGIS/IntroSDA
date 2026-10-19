@@ -26,7 +26,7 @@ dependencies:
   - h3-py
   - hvplot
   - inequality
-  - jupyterlab
+  - jupyterlab=4.5
   - jupyterlab-git
   - jupyterlab-myst
   - lonboard
