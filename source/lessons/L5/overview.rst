@@ -4,7 +4,7 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Introduction to spatial network analysis <spatial-network-analysis>`
-.. - :doc:`Spatial graph problems and algorithms <graph-problems-and-algorithms>`
+- :doc:`Spatial graph problems and algorithms <graph-problems-and-algorithms>`
 - :doc:`Tutorial 0: Meeting Git and Noppe <../../tutorials/git-basics>`
 .. - :doc:`Tutorial 1: Spatial analysis with Python <../../tutorials/intro-to-python-geostack>`
 .. - :doc:`Exercise 3 <../../exercises/exercise-3>`
