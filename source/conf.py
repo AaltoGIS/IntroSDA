@@ -33,7 +33,7 @@ author = 'Henrikki Tenkanen & Jussi Nikander'
 
 course_year = "2026"
 classroom_course = "isda"          # Classroom50 course slug, also the repo prefix
-noppe_join_code = "hnyp7f87i2rl"   # not derived from the year; update separately
+noppe_join_code = "5xtgexqo31kh"   # not derived from the year; update separately
 
 course_org = f"IntroSDA-{course_year}"
 _gh = f"https://github.com/{course_org}"
@@ -109,17 +109,6 @@ html_theme_options = {
     #"google_analytics_id": "UA-214280609-1",
     "use_edit_page_button": True,
     "use_repository_button": True,
-    "launch_buttons": {
-        "binderhub_url": "https://notebooks.gesis.org/binder",
-        "thebe": False,
-        "notebook_interface": "jupyterlab",
-        "collapse_navigation": False,
-        # Google Colab does not provide an easy way for specifying/building/activating the conda environment
-        # in a similar manner as Binder. Hence, let's not keep it. The easiest way seems to be:
-        # https://github.com/jaimergp/condacolab
-        # But it requires actions from the user nontheless, so atm it's a no-go.
-        #"colab_url": "https://colab.research.google.com"
-    },
 
     # Possible announcement for the page
    # "announcement": ("📢 Exercises 5 has been added to the course page. 📢"),

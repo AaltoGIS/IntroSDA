@@ -5,7 +5,7 @@ During this course, we will use different tools and applications for programming
 
 1. ESRI ArcGIS Pro for Desktop exercises
 2. `JupyterLab`_ for programming
-3. `Cloud computing environments`_ Binder or CSC Noppe
+3. `Cloud computing environment`_ CSC Noppe for the programming exercises
 4. `Git and GitHub`_ for version control and documentation
 5. `Voting / polling  <#voting-and-polling>`_ for interactive questions during the lectures
 6. `Slack`_ for communicating among Aalto students
@@ -19,10 +19,10 @@ The JupyterLab interface consists of different components such as a file browser
 Jupyter Notebooks are perfect for documenting a data science workflow in an interactive format.
 
 **We use JupyterLab/Jupyter Notebooks as the default programming environment during this course.**
-All of the course materials are available in a JupyterLab setting via `cloud computing environments`_ (Binder or CSC Notebooks).
+You will use JupyterLab in the `cloud computing environment`_ CSC Noppe when working on the programming exercises.
 
 .. figure:: img/Binder_launcher.png
-   :alt: Binder Jupyter Notebook
+   :alt: The JupyterLab launcher
    :width: 700px
 
    Basic view of JupyterLab
@@ -33,43 +33,21 @@ All of the course materials are available in a JupyterLab setting via `cloud com
 
    A Jupyter Notebook open in JupyterLab
 
-Cloud computing environments
---------------------------------
+Cloud computing environment
+---------------------------
 
-We will use cloud-based computing environments (CSC Notebooks or Binder) to access interactive online version of the lessons
-and to work on the weekly exercises. You can use the cloud computing environments with any computer as long as it has a reasonably fast internet connection and a web browser (just don't use Internet Explorer).
+We will use a cloud-based computing environment called CSC Noppe to work on the weekly programming exercises.
+You can use it with any computer as long as it has a reasonably fast internet connection and a web browser.
 
-Please note that the cloud computing environments are **temporary**. Always remember to push your changes to GitHub (and / or download a local copy).
+Please note that the cloud computing environment is **temporary**. Always remember to push your changes to GitHub (and / or download a local copy).
 
-.. figure:: img/launch-buttons.png
-   :alt: Launch buttons
-   :width: 700px
-
-   Different options for making the lesson interactive
-
-Each interactive lesson and exercise will have a launch button for both Binder and CSC Notebook.
-The CSC notebooks environment is only accessible to students from Finnish universities and research institutes.
+The pages of the programming exercises have a button that opens CSC Noppe, and :doc:`Tutorial 0 </tutorials/git-basics>` shows step by step how to start working in it.
+CSC Noppe is only accessible to students from Finnish universities and research institutes.
 
 .. note::
 
-    You can also install Python and the same programming environment to your local computer, but it is not necessary in this course (we recommend using the cloud computing environment.
+    You can also install Python and the same programming environment to your local computer, but it is not necessary in this course (we recommend using the cloud computing environment).
     **However**, if you wish to do so, please read :doc:`this documentation <installing-miniconda>` to learn how to install Python and the libraries on your own computer.
-
-Binder
-~~~~~~~
-
-Binder (https://mybinder.org/) runs Jupyter Notebooks in your web browser in a customized environment. The original files (notebooks) are hosted on GitHub.
-Binder does not require the user to log in, you can just click on the link in the lesson / exercise and start working.
-
-.. figure:: img/Binder_loading.png
-   :alt: Binder loading
-   :width: 700px
-
-   Binder takes a few moments to load
-
-Once the instance is ready, you can navigate to the lesson folders and start working with existing notebooks or create a new one.
-
-**Remember to save your work! The Binder instance is temporary, and all your files will be lost after the session.**
 
 Git and GitHub
 ---------------

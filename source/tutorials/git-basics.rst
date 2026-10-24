@@ -43,25 +43,19 @@ Git which files to include in the next committed snapshot. Finally, ``git commit
 Cloud computing
 ~~~~~~~~~~~~~~~
 
-We will use a cloud-based computing environment called ``CSC Noppe`` to access interactive online version of the lessons
-and to work on the weekly exercises. You can use the cloud computing environment with any computer as long as it has a reasonably fast internet
-connection and a web browser (just don't use Internet Explorer).
+We will use a cloud-based computing environment called ``CSC Noppe`` to work on the weekly programming exercises.
+You can use the cloud computing environment with any computer as long as it has a reasonably fast internet
+connection and a web browser.
 
 Please note that the cloud computing environments are **temporary** and they will be removed after the course.
 Always remember to push your changes to GitHub (and / or download a local copy).
 
-.. figure:: img/launch-buttons.png
-   :alt: Launch buttons
-   :width: 700px
-
-   Different options for making the lesson interactive
-
-Each interactive lesson and exercise will have a launch button for CSC Noppe.
+The pages of the programming exercises have a button that opens CSC Noppe.
 The CSC Noppe environment is only accessible to students from Finnish universities and research institutes.
 
 .. note::
 
-    You can also install Python and the same programming environment to your local computer, but it is not necessary in this course (we recommend using the cloud computing environment.
+    You can also install Python and the same programming environment to your local computer, but it is not necessary in this course (we recommend using the cloud computing environment).
     **However**, if you wish to do so, please read :doc:`this documentation </course-info/installing-miniconda>` to learn how to install Python and the libraries on your own computer.
 
 Preparations
@@ -366,7 +360,7 @@ Configuring Git credentials
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Configure Git to remember your identity using the ``git config`` tools. You (hopefully) only need to do this once
-if working on your own computer, or on a cloud computer with persistent storage on CSC notebooks.
+if working on your own computer, or on a cloud computer with persistent storage on CSC Noppe.
 
 .. code-block:: bash
 

@@ -164,9 +164,9 @@ Contents
     :maxdepth: 1
     :caption: Tutorials
 
-    .. tutorials/git-basics
-    .. tutorials/intro-to-python-geostack.ipynb
-    .. tutorials/spatial_network_analysis.ipynb
+    tutorials/git-basics
+    tutorials/intro-to-python-geostack.ipynb
+    tutorials/spatial_network_analysis.ipynb
 
 
 .. toctree::
@@ -210,7 +210,7 @@ Contents
 
     lessons/L5/overview
     lessons/L5/spatial-network-analysis
-    .. lessons/L5/graph-problems-and-algorithms
+    lessons/L5/graph-problems-and-algorithms
 
 
 
