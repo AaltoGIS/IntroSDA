@@ -4,8 +4,8 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Spatial data structures and algorithms <spatial-data-structures>`
-- :doc:`Voronoi and Delanay topologies <voronoi-and-delanay>`
-- :doc:`Exercise 4 <../../exercises/exercise-4>`
+.. - :doc:`Voronoi and Delanay topologies <voronoi-and-delanay>`
+.. - :doc:`Exercise 4 <../../exercises/exercise-4>`
 
 Lesson videos
 -------------
@@ -15,11 +15,11 @@ Lesson videos
     Aalto University students can access the video by clicking the image below (requires login):
 
     .. figure:: img/Lesson6.1.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4c3da0dc-be04-4be7-a1bc-b38300b9797d
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=09e55b4b-09e1-494e-a403-b4ef00b98c85
         :width: 500px
         :align: left
 
-.. admonition:: Lesson 6.2 - Voronoi, Delaunay and topology
+.. .. admonition:: Lesson 6.2 - Voronoi, Delaunay and topology
 
     Aalto University students can access the video by clicking the image below (requires login):
 
