@@ -156,8 +156,8 @@ Contents
 
     exercises/exercise-1
     exercises/exercise-2
-    .. exercises/exercise-3
-    .. exercises/exercise-4
+    exercises/exercise-3
+    exercises/exercise-4
     .. exercises/exercise-5
 
 .. toctree::
@@ -218,8 +218,8 @@ Contents
     :maxdepth: 1
     :caption: Week 6
 
-    .. lessons/L6/overview
-    .. lessons/L6/spatial-data-structures
+    lessons/L6/overview
+    lessons/L6/spatial-data-structures
     .. lessons/L6/voronoi-and-delanay
 
 .. toctree::
