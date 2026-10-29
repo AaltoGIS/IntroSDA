@@ -19,12 +19,12 @@ Lesson videos
         :width: 500px
         :align: left
 
-.. .. admonition:: Lesson 6.2 - Voronoi, Delaunay and topology
+.. admonition:: Lesson 6.2 - Voronoi, Delaunay and topology
 
     Aalto University students can access the video by clicking the image below (requires login):
 
     .. figure:: img/Lesson6.2.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c4f6637d-40e3-4ac7-9a58-b38600b97858
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=224d5c22-d6c0-4423-a633-b4f200b97976
         :width: 500px
         :align: left
 
