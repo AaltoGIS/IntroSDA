@@ -4,7 +4,7 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Spatial data structures and algorithms <spatial-data-structures>`
-.. - :doc:`Voronoi and Delanay topologies <voronoi-and-delanay>`
+- :doc:`Voronoi and Delanay topologies <voronoi-and-delanay>`
 .. - :doc:`Exercise 4 <../../exercises/exercise-4>`
 
 Lesson videos
