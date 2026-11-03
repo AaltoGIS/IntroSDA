@@ -14,11 +14,11 @@ Lesson videos
     Aalto University students can access the video by clicking the image below (requires login):
 
     .. figure:: img/Lesson7.1.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd2d76f7-0650-47a0-8d3b-b22500b97f2c
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d3f24637-df07-4258-9a54-b4f600b9a253
         :width: 500px
         :align: left
 
-.. admonition:: Lesson 7.2 - Spatial data management and databases
+.. .. admonition:: Lesson 7.2 - Spatial data management and databases
 
         Aalto University students can access the video by clicking the image below (requires login):
 
