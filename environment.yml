@@ -46,14 +46,13 @@ dependencies:
   - pexpect
   - pointpats
   - polyline
-  - protobuf
   - psycopg
   - pyarrow
   - pykrige
   - pyogrio
+  - pyrosm
   - pysal
   - python-igraph
-  - python-rapidjson
   - r5py
   - r5py.sampledata.helsinki
   - r5py.sampledata.sao_paulo
@@ -79,5 +78,3 @@ dependencies:
   - xlrd
   - xlsxwriter
   - pip
-  - pip:
-      - pyrosm>=0.22
