@@ -95,8 +95,7 @@ We have prepared a ready-made environment file for you, called ``environment.yml
 You can download it from `this link <https://raw.githubusercontent.com/AaltoGIS/IntroSDA/master/environment.yml>`__
 (right-click the link and choose ``Save link as ...``).
 
-The environment installs all packages from the ``conda-forge`` channel, except ``pyrosm``, which is installed with ``pip``
-because its latest version is not yet available on ``conda-forge``. This happens automatically when you create the environment.
+The environment installs all packages from the ``conda-forge`` channel.
 
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.

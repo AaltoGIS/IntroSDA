@@ -147,7 +147,7 @@ Contents
     course-info/License-terms
     course-info/attribution
     course-info/resources
-    .. course-info/installing-miniconda
+    course-info/installing-miniconda
 
 
 .. toctree::
@@ -226,16 +226,16 @@ Contents
     :maxdepth: 1
     :caption: Week 7
 
-    .. lessons/L7/overview
-    .. lessons/L7/spatial-indexing
-    .. lessons/L7/spatial-data-management-and-databases
+    lessons/L7/overview
+    lessons/L7/spatial-indexing
+    lessons/L7/spatial-data-management-and-databases
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 8
 
-    .. lessons/L8/overview
-    .. lessons/L8/geostatistics-kriging
+    lessons/L8/overview
+    lessons/L8/geostatistics-kriging
 
 
 .. toctree::

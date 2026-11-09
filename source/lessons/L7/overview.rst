@@ -14,7 +14,7 @@ Lesson videos
     Aalto University students can access the video by clicking the image below (requires login):
 
     .. figure:: img/Lesson7.1.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd2d76f7-0650-47a0-8d3b-b22500b97f2c
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d3f24637-df07-4258-9a54-b4f600b9a253
         :width: 500px
         :align: left
 
@@ -23,6 +23,6 @@ Lesson videos
         Aalto University students can access the video by clicking the image below (requires login):
 
         .. figure:: img/Lesson7.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d6eaed75-cd7a-4a92-8694-b22800b977f7
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f46679f1-8386-4488-bba6-b4f900b97a3f
             :width: 500px
             :align: left

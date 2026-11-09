@@ -9,7 +9,7 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-
+Note: This video is from year 2025 which substitutes the lecture this year. 
 
 .. admonition:: Lesson 8.1 - Spatial interpolation: IDW and Kriging
 
