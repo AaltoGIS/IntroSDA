@@ -250,8 +250,8 @@ Contents
     :maxdepth: 1
     :caption: Week 10
 
-    .. lessons/L10/overview
-    .. lessons/L10/intro-to-GeoAI
-    .. lessons/L10/intro-to-GeoAI-2
+    lessons/L10/overview
+    lessons/L10/intro-to-GeoAI
+    lessons/L10/intro-to-GeoAI-2
 
 
